@@ -43,6 +43,9 @@ def save_text_parts(text_parts):
     with open(TEXT_PARTS_FILE, "w") as file:
         json.dump(text_parts, file, indent=4)
 
+import time
+
+
 def extract_titles_with_selenium(url):
     """
     Extract titles, corresponding dates, and links directly from a dynamically rendered webpage using Selenium.
