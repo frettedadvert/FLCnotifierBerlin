@@ -44,6 +44,10 @@ def save_text_parts(text_parts):
         json.dump(text_parts, file, indent=4)
 
 def extract_titles_with_selenium(url):
+    """
+    Extract titles, corresponding dates, and links directly from a dynamically rendered webpage using Selenium.
+    Returns an array of dictionaries containing the title, date, and link.
+    """
     extracted_data = []
     chrome_options = Options()
     chrome_options.add_argument("--headless")
@@ -57,30 +61,45 @@ def extract_titles_with_selenium(url):
 
     try:
         driver.get(url)
+        time.sleep(5)  # Allow time for the page to load fully
 
         # Handle cookies popup if necessary
         try:
-            WebDriverWait(driver, 5).until(
+            WebDriverWait(driver, 30).until(
                 EC.element_to_be_clickable((By.XPATH, "//button[contains(text(), 'alle akzeptieren')]"))
             ).click()
             print("Cookies popup dismissed.")
         except Exception:
             print("No cookies popup found.")
 
+        # Check if elements are inside an iframe
+        iframes = driver.find_elements(By.TAG_NAME, "iframe")
+        print(f"Found {len(iframes)} iframes on the page.")
+        for iframe in iframes:
+            driver.switch_to.frame(iframe)
+            if driver.find_elements(By.CLASS_NAME, "title"):
+                print("Found 'tender' elements inside an iframe.")
+                break
+            driver.switch_to.default_content()
+
         # Wait for elements to load
-        title_elements = WebDriverWait(driver, 20).until(
+        title_elements = WebDriverWait(driver, 30).until(
             EC.presence_of_all_elements_located((By.CLASS_NAME, "title"))
         )
-        date_elements = WebDriverWait(driver, 20).until(
+        print("title:" + str(title_elements))
+        
+        date_elements = WebDriverWait(driver, 30).until(
             EC.presence_of_all_elements_located((By.CLASS_NAME, "list--horizontal"))
         )
-        link_elements = WebDriverWait(driver, 20).until(
+        print("date:" + str(date_elements))
+        link_elements =  WebDriverWait(driver, 30).until(
             EC.presence_of_all_elements_located((By.CLASS_NAME, "right"))
         )
+        print("links:" + str(link_elements))
 
         print(f"Found {len(title_elements)} titles, {len(date_elements)} dates, and {len(link_elements)} links.")
 
-        for title_element, date_element, link_element in zip(title_elements, date_elements, link_elements):
+        for title_element, date_element, link_element in zip(title_elements[2:-1], date_elements, link_elements):
             try:
                 title = title_element.text.strip()
                 link = link_element.find_element(By.XPATH, ".//button").get_attribute("data-href")
@@ -96,6 +115,7 @@ def extract_titles_with_selenium(url):
         driver.quit()
 
     return extracted_data
+
 
 def check_keywords(text, keywords):
     text_lower = text.lower()
