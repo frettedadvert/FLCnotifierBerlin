@@ -10,12 +10,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Suppress TensorFlow logging
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Suppress TensorFlow logging
 
 websites = [
-    {"url": "https://www.berlin.de/vergabeplattform/veroeffentlichungen/bekanntmachungen/?limit=100&start=0&search=", 
-     "keywords": ["catering", "verpflegung", "lebensmittel", "kantin", "speise", "hotel", "essen"]},
+    {"url": "https://www.berlin.de/vergabeplattform/veroeffentlichungen/bekanntmachungen/?limit=100&start=0&search=", "keywords": ["catering", "verpflegung", "lebensmittel", "kantin", "speise", "hotel", "essen"]},
 ]
 
 # Email configuration
@@ -25,14 +23,6 @@ EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 MATCHES_FILE = os.path.join(SCRIPT_DIR, "matches.json")
 TEXT_PARTS_FILE = "extracted_text_parts.json"
-
-class Match:
-    def __init__(self, title, link):
-        self.title = title
-        self.link = link
-
-    def to_dict(self):
-        return {"title": self.title, "link": self.link}
 
 def clear_matches_file():
     with open(MATCHES_FILE, "w") as file:
@@ -53,7 +43,7 @@ def save_text_parts(text_parts):
     with open(TEXT_PARTS_FILE, "w") as file:
         json.dump(text_parts, file, indent=4)
 
-def extract_titles_and_links_with_selenium(url):
+def extract_titles_with_selenium(url):
     extracted_data = []
     chrome_options = Options()
     chrome_options.add_argument("--headless")
@@ -67,7 +57,6 @@ def extract_titles_and_links_with_selenium(url):
 
     try:
         driver.get(url)
-        WebDriverWait(driver, 10).until(lambda d: d.execute_script("return document.readyState") == "complete")
 
         # Handle cookies popup if necessary
         try:
@@ -80,20 +69,24 @@ def extract_titles_and_links_with_selenium(url):
 
         # Wait for elements to load
         title_elements = WebDriverWait(driver, 20).until(
-            EC.presence_of_all_elements_located((By.CLASS_NAME, "word-break"))
+            EC.presence_of_all_elements_located((By.CLASS_NAME, "title"))
+        )
+        date_elements = WebDriverWait(driver, 20).until(
+            EC.presence_of_all_elements_located((By.CLASS_NAME, "list--horizontal"))
         )
         link_elements = WebDriverWait(driver, 20).until(
-            EC.presence_of_all_elements_located((By.CLASS_NAME, "noTextDecorationLink"))
+            EC.presence_of_all_elements_located((By.CLASS_NAME, "right"))
         )
 
-        print(f"Found {len(link_elements)} links.")
+        print(f"Found {len(title_elements)} titles, {len(date_elements)} dates, and {len(link_elements)} links.")
 
-        for title_element, link_element in zip(title_elements, link_elements):
+        for title_element, date_element, link_element in zip(title_elements, date_elements, link_elements):
             try:
                 title = title_element.text.strip()
-                link = "https://vergabeportal-bw.de" + link_element.get_attribute("href")[29:-19]
-                extracted_data.append(Match(title, link).to_dict())
-                print(f"Extracted: {title}, {link}")
+                link = link_element.find_element(By.XPATH, ".//button").get_attribute("data-href")
+                date = date_element.text.strip()
+                extracted_data.append({"title": title, "date": date, "link": link})
+                print(f"Extracted: {title}, {date}, {link}")
             except Exception as e:
                 print(f"Error extracting data: {e}")
 
@@ -114,8 +107,9 @@ def send_email(new_matches):
 
     for match in new_matches:
         title = match.get("title", "No Title")
+        date = match.get("date", "No Date")
         link = match.get("link", "No Link")
-        body += f"Title: {title}\nLink: {link}\n\n"
+        body += f"Title: {title}\nDeadline: {date}\nLink: {link}\n\n"
 
     try:
         yag = yagmail.SMTP(EMAIL_ADDRESS, EMAIL_PASSWORD)
@@ -125,7 +119,6 @@ def send_email(new_matches):
         print(f"Failed to send email: {e}")
 
 def main():
-    clear_matches_file()
     previous_matches = load_previous_matches()
     print("Previous Matches:", previous_matches)
     new_matches = []
@@ -134,26 +127,19 @@ def main():
         url = site["url"]
         keywords = site["keywords"]
 
-        # Extract all titles and links
-        extracted_data = extract_titles_and_links_with_selenium(url)
+        extracted_data = extract_titles_with_selenium(url)
         save_text_parts(extracted_data)
-
-        # Determine new matches
-        if url not in previous_matches:
-            previous_matches[url] = []
 
         for data in extracted_data:
             title = data.get("title", "")
 
-            if check_keywords(title, keywords) and data not in previous_matches[url]:
+            if check_keywords(title, keywords) and data not in previous_matches.get(url, []):
                 new_matches.append(data)
-                previous_matches[url].append(data)
+                previous_matches.setdefault(url, []).append(data)
 
-    # Send an email if there are new matches
     if new_matches:
         send_email(new_matches)
 
-    # Save the updated matches to the file
     save_matches(previous_matches)
 
 if __name__ == "__main__":
