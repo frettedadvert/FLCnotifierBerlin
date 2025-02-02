@@ -1,5 +1,15 @@
 [
     {
+        "title": "Entsorgen",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV/EU)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf Angebotsfrist\n04.03.2025, 09:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190361"
+    },
+    {
+        "title": "Entsorgen",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV/EU)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf Angebotsfrist\n04.03.2025, 09:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190348"
+    },
+    {
         "title": "VE 502 Abbrucharbeiten Au\u00dfenanlagen",
         "date": "Verfahrensart\nOffenes Verfahren (VOB /A EU)\nAusf\u00fchrungsort\n14195 Berlin\nAblauf Angebotsfrist\n04.03.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/163168"
@@ -488,15 +498,5 @@
         "title": "Ma\u00dfnahmen zur Umsetzung der Sozialraumorientierung im Bezirk Spandau 2025",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13597 Berlin\nAblauf der Angebotsfrist\n18.02.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190125"
-    },
-    {
-        "title": "Schnittschutzkleidung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n07.02.2025, 08:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190126"
-    },
-    {
-        "title": "Pressespiegel und Medienanalysen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf der Angebotsfrist\n14.02.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190138"
     }
 ]
