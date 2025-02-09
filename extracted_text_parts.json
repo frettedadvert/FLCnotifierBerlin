@@ -1,5 +1,10 @@
 [
     {
+        "title": "Projektsteuerungsleistungen LP 1-9",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13403 Berlin\nAblauf Angebotsfrist\n11.03.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/189662"
+    },
+    {
         "title": "WE 2625 Kaiser-Friedrich-Str. 19 in 10585 Berlin, Fassadensanierung",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10585 Berlin\nEr\u00f6ffnungstermin\n05.03.2025, 09:40 Uhr\nAblauf Angebotsfrist\n05.03.2025, 09:40 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/189741"
@@ -493,10 +498,5 @@
         "title": "Betonwerkstein- und Fliesenarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12627 Berlin\nEr\u00f6ffnungstermin\n27.02.2025, 10:00 Uhr\nAblauf Angebotsfrist\n27.02.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190057"
-    },
-    {
-        "title": "Tiefbauarbeiten, Versickerungsanlage",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB-EU)\nAusf\u00fchrungsort\n10783 Berlin\nAblauf Angebotsfrist\n05.03.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190075"
     }
 ]
