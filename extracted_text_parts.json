@@ -1,5 +1,15 @@
 [
     {
+        "title": "KKE 5050.3 - Garten und Landschaftsbauarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/A - EU)\nAusf\u00fchrungsort\n14053 Berlin\nAblauf Angebotsfrist\n02.04.2025, 11:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/186003"
+    },
+    {
+        "title": "Los 9-KG 300-VE05-Rohbauarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12437 Berlin\nAblauf Angebotsfrist\n31.03.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/189722"
+    },
+    {
         "title": "Unterhalts-, Bedarfs- und Grundreinigung",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10715 Berlin\nAblauf Angebotsfrist\n01.04.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191134"
@@ -38,6 +48,11 @@
         "title": "Tischlerarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12249 Berlin\nEr\u00f6ffnungstermin\n28.03.2025, 10:00 Uhr\nAblauf Angebotsfrist\n28.03.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191338"
+    },
+    {
+        "title": "Gas-, Wasser- und Entw\u00e4sserungsanlagen innerhalb von Geb\u00e4uden Heizung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10719 Berlin\nEr\u00f6ffnungstermin\n20.03.2025, 10:10 Uhr\nAblauf Angebotsfrist\n20.03.2025, 10:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191339"
     },
     {
         "title": "Kauf von 1 St\u00fcck Front-Schlegelm\u00e4her mit Direktaufnahme und Hochentleerung",
@@ -483,20 +498,5 @@
         "title": "Beton und Maurer Lichtkuppeln Attika",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n04.03.2025, 13:50 Uhr\nAblauf Angebotsfrist\n04.03.2025, 13:50 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190988"
-    },
-    {
-        "title": "Rahmenvertrag Beschaffung B\u00fcromaterial, Bewirtungsartikel, BGA",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOL/A)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf Angebotsfrist\n13.03.2025, 09:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191012"
-    },
-    {
-        "title": "Gefahrenstellenbeseitigung im Steinstra\u00dfenbau des Bezirkes Reinickendorf von Berlin 2025, Revier II Ortsteil \u2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n13437 Berlin\nEr\u00f6ffnungstermin\n04.03.2025, 09:00 Uhr\nAblauf Angebotsfrist\n04.03.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/189544"
-    },
-    {
-        "title": "Tischlerarbeiten M\u00f6blierung, K\u00fcchen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12524 Berlin\nEr\u00f6ffnungstermin\n18.03.2025, 11:00 Uhr\nAblauf Angebotsfrist\n18.03.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/189750"
     }
 ]
