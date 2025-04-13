@@ -1,5 +1,30 @@
 [
     {
+        "title": "Arbeitssicherheit",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf Angebotsfrist\n13.05.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191092"
+    },
+    {
+        "title": "Architekten- und Ingenieurleistungen f\u00fcr die Teilmodernisierung von Bestandsbauten",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n13158 Berlin\nAblauf der Teilnahmefrist\n14.05.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192693"
+    },
+    {
+        "title": "Projektsteuerung Projekt Neubau Gemeinschaftsschule Schule an der Jungfernheide SAJ in Berlin Spandau, \u2026",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n13629 Berlin\nAblauf der Teilnahmefrist\n16.05.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191375"
+    },
+    {
+        "title": "Leistungen der Geotechnik nach HOAI",
+        "date": "Verfahrensart\nOffenes Verfahren\nAusf\u00fchrungsort\n10178 Berlin\nAblauf Angebotsfrist\n16.05.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192812"
+    },
+    {
+        "title": "Bodenbelagsarbeiten BT 1",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12587 Berlin\nAblauf Angebotsfrist\n20.05.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192742"
+    },
+    {
         "title": "OV25_WE5231_Fassadensanierung",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n12053 Berlin\nAblauf Angebotsfrist\n12.05.2025, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190295"
@@ -473,30 +498,5 @@
         "title": "Heizung Fernw\u00e4rme",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12559 Berlin\nEr\u00f6ffnungstermin\n05.05.2025, 10:30 Uhr\nAblauf Angebotsfrist\n05.05.2025, 10:30 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192756"
-    },
-    {
-        "title": "ITDZ Berlin: Dienstleistungen Proxyumgebung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10713 Berlin\nAblauf der Angebotsfrist\n24.04.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192775"
-    },
-    {
-        "title": "Bewegungslosmelder Totmannwarner",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n28.04.2025, 08:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192782"
-    },
-    {
-        "title": "Rahmenvereinbarung Rechtsberatung Finanzierungsrecht",
-        "date": "Verfahrensart\nVerhandlungsvergabe mit Teilnahmewettbewerb (UVgO)\nAusf\u00fchrungsort\n10829 Berlin\nAblauf der Teilnahmefrist\n22.04.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192797"
-    },
-    {
-        "title": "ITDZ Berlin: Rahmenvertrag rechtlich-strategische Beratung",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10713 Berlin\nAblauf Angebotsfrist\n09.05.2025, 13:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191218"
-    },
-    {
-        "title": "Alarmaufschaltungs- und Alarmverfolgungsdienstleistung",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12043 Berlin\nAblauf Angebotsfrist\n12.05.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192676"
     }
 ]
