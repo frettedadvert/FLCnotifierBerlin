@@ -1,5 +1,20 @@
 [
     {
+        "title": "Druckermiete",
+        "date": "Verfahrensart\nOffenes Verfahren\nAusf\u00fchrungsort\n10318 Berlin\nAblauf Angebotsfrist\n02.06.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193643"
+    },
+    {
+        "title": "Rahmenvertrag Soziale Leistungen",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb (VgV)\nAusf\u00fchrungsort\n10785 Berlin\nAblauf der Teilnahmefrist\n03.06.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193472"
+    },
+    {
+        "title": "Panke Pa13-Pa16 Buch und P\u00f6lnitzwiesen",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB - EU)\nAusf\u00fchrungsort\n13355 Berlin\nAblauf Angebotsfrist\n17.06.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/188972"
+    },
+    {
         "title": "Trockenbauarbeiten",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n13597 Berlin\nAblauf Angebotsfrist\n03.06.2025, 10:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193637"
@@ -483,20 +498,5 @@
         "title": "Metallbauarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n10963 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n04.06.2025, 09:15 Uhr\nAblauf Angebotsfrist\n03.06.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193146"
-    },
-    {
-        "title": "Zimmerarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n10963 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n28.05.2025, 09:00 Uhr\nAblauf Angebotsfrist\n27.05.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193164"
-    },
-    {
-        "title": "Glas-Fassade und -Trennw\u00e4nde",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n10963 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n04.06.2025, 09:00 Uhr\nAblauf Angebotsfrist\n03.06.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193179"
-    },
-    {
-        "title": "Estricharbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n10963 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n04.06.2025, 09:30 Uhr\nAblauf Angebotsfrist\n04.06.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193217"
     }
 ]
