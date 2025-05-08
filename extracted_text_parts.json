@@ -1,8 +1,43 @@
 [
     {
+        "title": "FHF Sportpl\u00e4tze",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB / A)\nAusf\u00fchrungsort\n13589 Berlin\nAblauf Angebotsfrist\n06.06.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193421"
+    },
+    {
+        "title": "FHF Sanierung Leitungen Heizhaus",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB / A)\nAusf\u00fchrungsort\n13589 Berlin\nAblauf Angebotsfrist\n06.06.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193423"
+    },
+    {
+        "title": "PolBln 211_25 Netzwerkkomponenten EU",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf Angebotsfrist\n09.06.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193803"
+    },
+    {
+        "title": "PolBln 213_25 EU SMkw II 2025",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf Angebotsfrist\n09.06.2025, 06:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193807"
+    },
+    {
+        "title": "Leistungen der Objektplanung f\u00fcr die Modernisierung der Geb\u00e4ude-Heizungsanlage in den H\u00e4usern 6 \u2026",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13403 Berlin\nAblauf Angebotsfrist\n11.06.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193718"
+    },
+    {
+        "title": "Fachplanungsleistungen der Technischen Ausr\u00fcstung - Anlagengruppe 4- f\u00fcr die Modernisierung der Geb\u00e4ude-Heizungsanlage \u2026",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13403 Berlin\nAblauf Angebotsfrist\n11.06.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193728"
+    },
+    {
         "title": "Pr\u00fcfung der Haushalts- und Verm\u00f6gensrechnung der Humboldt-Universit\u00e4t zu Berlin",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10099 Berlin\nAblauf Angebotsfrist\n17.06.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193549"
+    },
+    {
+        "title": "Neubau der Stra\u00dfe Am Osr\u00fccken von Zabel-Kr\u00fcger-Damm bis \u00d6schelbrunner Weg",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n13469 Berlin\nEr\u00f6ffnungstermin\n06.06.2025, 09:00 Uhr\nAblauf Angebotsfrist\n06.06.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192110"
     },
     {
         "title": "KKE 611.4 Lieferung und Montage von AV- und IT-Ausstattung",
@@ -25,6 +60,11 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192975"
     },
     {
+        "title": "Wartung von extensiven Gr\u00fcnd\u00e4chern im Bezirk Lichtenberg",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10315 Berlin\nEr\u00f6ffnungstermin\n05.06.2025, 09:00 Uhr\nAblauf Angebotsfrist\n05.06.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192999"
+    },
+    {
         "title": "Verglasungsarbeiten im Denkmalschutz, Baustelleneinrichtung",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10787 Berlin\nEr\u00f6ffnungstermin\n02.06.2025, 10:00 Uhr\nAblauf Angebotsfrist\n02.06.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193064"
@@ -38,6 +78,11 @@
         "title": "Beschaffung von Hochleistungs-PCs f\u00fcr den Ausbildungsberuf Gestalter f\u00fcr immersive Medien",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13359 Berlin\nAblauf der Angebotsfrist\n21.05.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193570"
+    },
+    {
+        "title": "Teilentschlammung des Obersees",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10315 Berlin\nEr\u00f6ffnungstermin\n28.05.2025, 10:00 Uhr\nAblauf Angebotsfrist\n28.05.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193574"
     },
     {
         "title": "Zusammenarbeit zur vollumf\u00e4nglichen Migration einer bereits implementierten On-Premises CRM-L\u00f6sung - Microsoft Dynamics \u2026",
@@ -60,9 +105,44 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193789"
     },
     {
+        "title": "Wartungsleistung an Alarmierungsanlagen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n14163 Berlin\nAblauf der Angebotsfrist\n03.06.2025, 10:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193821"
+    },
+    {
         "title": "Berliner Hochschule f\u00fcr Technik, Haus Bauwesen Klimalabor - Erneuerung der Induktionsger\u00e4te",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13353 Berlin\nEr\u00f6ffnungstermin\n04.06.2025, 12:00 Uhr\nAblauf Angebotsfrist\n04.06.2025, 12:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193828"
+    },
+    {
+        "title": "Tiefbauarbeiten - Entw\u00e4sserungskanalarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12205 Berlin\nEr\u00f6ffnungstermin\n04.06.2025, 10:00 Uhr\nAblauf Angebotsfrist\n04.06.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193835"
+    },
+    {
+        "title": "Columbiadamm 10 Bauteil Q - \u00e4u\u00dfere TA-Erschlie\u00dfung ohne Erdarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10965 Berlin\nEr\u00f6ffnungstermin\n27.05.2025, 13:30 Uhr\nAblauf Angebotsfrist\n27.05.2025, 13:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193836"
+    },
+    {
+        "title": "Fehrbelliner Platz 1 - Ger\u00fcstbauarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n03.06.2025, 11:30 Uhr\nAblauf Angebotsfrist\n03.06.2025, 11:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193866"
+    },
+    {
+        "title": "Schuckertdamm 345 - R\u00fcckbau und Entsorgung schadstoffbelasteter Container, ehem. Gemeinschaftsmodul",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13629 Berlin\nEr\u00f6ffnungstermin\n27.05.2025, 14:10 Uhr\nAblauf Angebotsfrist\n27.05.2025, 14:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193868"
+    },
+    {
+        "title": "Sportger\u00e4te",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13503 Berlin\nAblauf der Angebotsfrist\n23.05.2025, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193869"
+    },
+    {
+        "title": "Umbau der Heizstation",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10249 Berlin\nEr\u00f6ffnungstermin\n05.06.2025, 09:00 Uhr\nAblauf Angebotsfrist\n05.06.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193870"
     },
     {
         "title": "KKE A33403 Malerarbeiten 3 - Bodenbeschichtung",
@@ -80,6 +160,11 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191882"
     },
     {
+        "title": "Inspektion und Wartung von Sportger\u00e4ten in den 67 Schulsporthallen und den 12 \u2026",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10713 Berlin\nAblauf der Angebotsfrist\n23.05.2025, 10:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193284"
+    },
+    {
         "title": "Neubau Uferbefestigung SOW km 17,8-22,0 T1-Sofortsicherung",
         "date": "Verfahrensart\nOffenes Verfahren (VOB - EU)\nAusf\u00fchrungsort\n10243 Berlin\nAblauf Angebotsfrist\n10.06.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193531"
@@ -93,6 +178,11 @@
         "title": "Investor Readiness Programm f\u00fcr Startup-Gr\u00fcnderinnen",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10825 Berlin\nAblauf der Angebotsfrist\n27.05.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193715"
+    },
+    {
+        "title": "Untersuchung zuk\u00fcnftiger Parkraumbewirtschaftung im Bezirk Treptow-K\u00f6penick von Berlin",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12555 Berlin\nAblauf der Angebotsfrist\n23.05.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193719"
     },
     {
         "title": "Metallbau- und Beschlagarbeiten - Rahmenvertrag",
@@ -128,6 +218,11 @@
         "title": "Los 1:Landschafts- und Tiefbauarbeiten, Los 2: Kunststoffbelag, Los 3: Bepflanzungen",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n10249 Berlin Friedrichshain\nEr\u00f6ffnungstermin\n02.06.2025, 10:15 Uhr\nAblauf Angebotsfrist\n02.06.2025, 10:15 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193815"
+    },
+    {
+        "title": "Garten- und Landschaftsbauarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10243 Berlin\nEr\u00f6ffnungstermin\n05.06.2025, 09:00 Uhr\nAblauf Angebotsfrist\n05.06.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193819"
     },
     {
         "title": "Landschaftsbauarbeiten - Erneuerung der Weitsprunganlage - 2. BA",
@@ -403,100 +498,5 @@
         "title": "Erstellung eines umsetzungsorientierten Standortentwicklungskonzeptes - Sportpark am Rodelberg - Neue Krugallee 219 \u2026",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOL/A LHO)\nAusf\u00fchrungsort\n12555 Berlin\nAblauf der Angebotsfrist\n02.06.2025, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193346"
-    },
-    {
-        "title": "Rohbau Bestandsetagen, WE 485 Bornholmer Str. 8 in 10439 Berlin",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB-EU)\nAusf\u00fchrungsort\n10439 Berlin\nAblauf Angebotsfrist\n04.06.2025, 09:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193450"
-    },
-    {
-        "title": "Sanierung von Glasfaserverst\u00e4rktem Kunststoff der Bauwerkskulissen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12437 Berlin\nEr\u00f6ffnungstermin\n30.05.2025, 13:00 Uhr\nAblauf Angebotsfrist\n30.05.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193452"
-    },
-    {
-        "title": "KG 430-VE03-Luftechnische Anlagen",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12437 Berlin\nAblauf Angebotsfrist\n09.06.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193508"
-    },
-    {
-        "title": "Ger\u00e4tewagen-Messtechnik",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf Angebotsfrist\n03.06.2025, 08:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193532"
-    },
-    {
-        "title": "71327000-6 Dienstleistungen in der Tragwerksplanung",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10999 Berlin Kreuzberg\nAblauf der Teilnahmefrist\n28.05.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193550"
-    },
-    {
-        "title": "HP EliteBook - Touch Laptop",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12043 Berlin\nAblauf der Angebotsfrist\n14.05.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193578"
-    },
-    {
-        "title": "Verkehrswegebauarbeiten, Pflasterdecken, Plattenbel\u00e4ge, Einfassungen, Sanierung des Rampenbelages einschl. Erneuerung der Rampeneinfassung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n14.05.2025, 13:50 Uhr\nAblauf Angebotsfrist\n14.05.2025, 13:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193586"
-    },
-    {
-        "title": "Tischlerarbeiten,Fenster, T\u00fcren, inkl. Grundierung, Einbauten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10719 Berlin\nEr\u00f6ffnungstermin\n27.05.2025, 10:50 Uhr\nAblauf Angebotsfrist\n27.05.2025, 10:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193611"
-    },
-    {
-        "title": "Rohbauarbeiten, Betonarbeiten nach DIN 18331, Mauerarbeiten nach DIN 18330, Estricharbeiten nach DIN \u2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12045 Berlin\nEr\u00f6ffnungstermin\n27.05.2025, 10:00 Uhr\nAblauf Angebotsfrist\n27.05.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193612"
-    },
-    {
-        "title": "Naturwerksteinarbeiten, Natursteinarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n22.05.2025, 09:30 Uhr\nAblauf Angebotsfrist\n22.05.2025, 09:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193615"
-    },
-    {
-        "title": "Linienstr_Entw\u00e4sserungskanalarbeiten_Tiefbau und Pflasterarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10115 Berlin\nEr\u00f6ffnungstermin\n03.06.2025, 09:50 Uhr\nAblauf Angebotsfrist\n03.06.2025, 09:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193625"
-    },
-    {
-        "title": "Stadtteilkoordination Marzahn Nord",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12681 Berlin\nAblauf der Angebotsfrist\n19.05.2025, 10:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/189897"
-    },
-    {
-        "title": "Gestaltung, Herstellung und Lieferung neuer Werbemittel f\u00fcr die Sozialberatung der Berliner Justiz",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10825 Berlin\nAblauf der Angebotsfrist\n26.05.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192362"
-    },
-    {
-        "title": "Beschaffung eines Fischereiaufsichtsbootes f\u00fcr das Fischereiamt Berlin",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n14055 Berlin\nAblauf der Angebotsfrist\n16.05.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192381"
-    },
-    {
-        "title": "Erneuerung der Trinkwasserleitungen f\u00fcr Warm- und Kaltwasser, Freie Universit\u00e4t Berlin, Veterin\u00e4rmedizin, Koserstra\u00dfe \u2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n14195 Berlin\nEr\u00f6ffnungstermin\n26.05.2025, 12:00 Uhr\nAblauf Angebotsfrist\n26.05.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193121"
-    },
-    {
-        "title": "Beschaffung 1 St\u00fcck Elektro Pritschfahrzeug als Heckkipper und 1 St\u00fcck Aufsitzm\u00e4her mit \u2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12435 Berlin\nAblauf der Angebotsfrist\n26.05.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193187"
-    },
-    {
-        "title": "Baustelleneinrichtung, Zimmer- und Holzbauarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12437 Berlin\nEr\u00f6ffnungstermin\n19.05.2025, 11:00 Uhr\nAblauf Angebotsfrist\n19.05.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193188"
-    },
-    {
-        "title": "Betreuung digitaler und interaktiver Module sowie Backendsystem f\u00fcr die Webseite von \u2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nAblauf der Angebotsfrist\n19.05.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193294"
-    },
-    {
-        "title": "Zentrale Baustelleneinrichtung, ohne VRA, WE 485 Bornholmer Str. 8 in 10439 Berlin",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10439 Berlin\nEr\u00f6ffnungstermin\n28.05.2025, 09:00 Uhr\nAblauf Angebotsfrist\n28.05.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193414"
     }
 ]
