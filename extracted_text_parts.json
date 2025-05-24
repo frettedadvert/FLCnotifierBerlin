@@ -30,6 +30,11 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194418"
     },
     {
+        "title": "Heizanlagen und zentrale Wassererw\u00e4rmungsanlagen, Wartung an Heizungsanlagen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10000 Berlin\nEr\u00f6ffnungstermin\n08.07.2025, 08:30 Uhr\nAblauf Angebotsfrist\n08.07.2025, 08:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194425"
+    },
+    {
         "title": "Erneuerung M\u00fcllplatzeinz\u00e4unung",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10178 Berlin\nEr\u00f6ffnungstermin\n12.06.2025, 09:00 Uhr\nAblauf Angebotsfrist\n12.06.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194434"
@@ -493,10 +498,5 @@
         "title": "KG 410 - VE01 Abwasser, Wasser, Gasanlagen KG 410",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12437 Berlin\nAblauf Angebotsfrist\n16.06.2025, 12:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193951"
-    },
-    {
-        "title": "KG 420 - VE 02 W\u00e4rmeversorgungsanlagen",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12437 Berlin\nAblauf Angebotsfrist\n16.06.2025, 13:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193957"
     }
 ]
