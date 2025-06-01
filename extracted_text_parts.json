@@ -1,5 +1,10 @@
 [
     {
+        "title": "RV Lieferung Material Geb\u00e4udereinigung",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12687 Berlin\nAblauf Angebotsfrist\n09.07.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193950"
+    },
+    {
         "title": "Miete und Eichung von Messger\u00e4ten",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10785 Berlin\nAblauf Angebotsfrist\n03.07.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194216"
@@ -493,10 +498,5 @@
         "title": "nicht\u00f6ffentliche Erschlie\u00dfung Grundleitungen",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10405 Berlin\nEr\u00f6ffnungstermin\n12.06.2025, 10:30 Uhr\nAblauf Angebotsfrist\n12.06.2025, 10:30 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194386"
-    },
-    {
-        "title": "Wissenschaftlicher Forschungsauftrag zur Untersuchung des Ausma\u00dfes und von Verhinderungsm\u00f6glichkeiten von Zwangsverheiratungen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nAblauf der Angebotsfrist\n05.06.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194397"
     }
 ]
