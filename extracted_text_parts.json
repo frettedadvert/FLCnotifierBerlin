@@ -1,5 +1,30 @@
 [
     {
+        "title": "VE 50 Ausstellungsbau",
+        "date": "Verfahrensart\nNicht offenes Verfahren\nAusf\u00fchrungsort\n14195 Berlin\nAblauf der Teilnahmefrist\n08.07.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193279"
+    },
+    {
+        "title": "Beschaffung und Einf\u00fchrung einer Software f\u00fcr die Sozialen Wohnhilfen",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nAblauf Angebotsfrist\n14.07.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193007"
+    },
+    {
+        "title": "Freianlagen - lanschaftsg\u00e4rtnerische Arbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12489 Berlin - Adlershof\nAblauf Angebotsfrist\n08.07.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194228"
+    },
+    {
+        "title": "Berater f\u00fcr Kleinreparaturmanagement und Leerwohnungsinstandsetzung",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf Angebotsfrist\n07.07.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194601"
+    },
+    {
+        "title": "FHF Sanierung Fenster Frankenwaldstr. 2-12",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB / A)\nAusf\u00fchrungsort\n13589 Berlin\nAblauf Angebotsfrist\n11.07.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194592"
+    },
+    {
         "title": "Unterhalts-, Sonder- und Grundreinigung der Dienstgeb\u00e4ude des Bezirksamtes - ausgenommen Schulen",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13597 Berlin\nAblauf Angebotsfrist\n11.07.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194723"
@@ -473,30 +498,5 @@
         "title": "Turnhalle Tischlerarbeiten De- und Montage Prallschutzwand",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n10961 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n17.06.2025, 10:15 Uhr\nAblauf Angebotsfrist\n17.06.2025, 10:15 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194625"
-    },
-    {
-        "title": "Landschaftsg\u00e4rtnerische Arbeiten - Entw\u00e4sserungsarbeiten",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12489 Berlin - Adlershof\nAblauf Angebotsfrist\n03.07.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194119"
-    },
-    {
-        "title": "Baugrunduntersuchung, UVP",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13047 Reinickendorf\nAblauf der Angebotsfrist\n11.06.2025, 09:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194332"
-    },
-    {
-        "title": "Berlin TXL - UTR - \u00dcbergeordnete Projektsteuerung Hochbau",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n13405 Berlin\nAblauf der Teilnahmefrist\n26.06.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194473"
-    },
-    {
-        "title": "Toner f\u00fcr Epson WorkForce Pro WF-C5890DWF",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13353 Berlin\nAblauf der Angebotsfrist\n11.06.2025, 23:59 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194501"
-    },
-    {
-        "title": "Sanierung der Au\u00dfenanlagen im Rahmen der Sanierung UG Gro\u00dfe Sporthalle",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13053 Berlin\nEr\u00f6ffnungstermin\n27.06.2025, 10:00 Uhr\nAblauf Angebotsfrist\n27.06.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194510"
     }
 ]
