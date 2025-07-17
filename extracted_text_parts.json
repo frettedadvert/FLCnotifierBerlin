@@ -1,5 +1,30 @@
 [
     {
+        "title": "HW_Wartung_DellEMC_Originalsupport",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10785 Berlin\nAblauf Angebotsfrist\n22.08.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196037"
+    },
+    {
+        "title": "Freianlagen",
+        "date": "Verfahrensart\nNicht offenes Verfahren\nAusf\u00fchrungsort\n12589 Berlin - Rahnsdorf\nAblauf der Teilnahmefrist\n31.07.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196098"
+    },
+    {
+        "title": "PolBln 312_25 Nachtsichtger\u00e4te gem\u00e4\u00df Preisblatt-LV",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n28.07.2025, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196374"
+    },
+    {
+        "title": "Betonerhaltungsarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n12.08.2025, 08:30 Uhr\nAblauf Angebotsfrist\n12.08.2025, 08:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196384"
+    },
+    {
+        "title": "Finckensteinallee 41 - Gewerke\u00fcbergreifende Ausschreibung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nEr\u00f6ffnungstermin\n12.08.2025, 11:30 Uhr\nAblauf Angebotsfrist\n12.08.2025, 11:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196386"
+    },
+    {
         "title": "Projektsteuerung",
         "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12099 Berlin\nAblauf der Teilnahmefrist\n14.08.2025, 10:30 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/183066"
@@ -8,6 +33,11 @@
         "title": "Omnissa Horizon 8 Enterprise with VVF for VDI Term Edition",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nAblauf der Angebotsfrist\n08.08.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193954"
+    },
+    {
+        "title": "Tischler- und Malerarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10319 Berlin\nEr\u00f6ffnungstermin\n07.08.2025, 09:01 Uhr\nAblauf Angebotsfrist\n07.08.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194404"
     },
     {
         "title": "Anschaffung von Heizkreisregelungen als smarte Anlagen f\u00fcr verschiedene Bestandsgeb\u00e4ude",
@@ -45,6 +75,11 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196157"
     },
     {
+        "title": "Gr\u00fcnpflege an \u00f6ffentlichen Einrichtungen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10247 Berlin Friedrichshain\nAblauf der Angebotsfrist\n04.08.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196171"
+    },
+    {
         "title": "71222000-0 Dienstleistungen von Architekturb\u00fcros bei Freianlagen",
         "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10965 Berlin Kreuzberg\nAblauf der Teilnahmefrist\n18.08.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196207"
@@ -73,6 +108,21 @@
         "title": "POE-Adapter",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n30.07.2025, 08:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196326"
+    },
+    {
+        "title": "Elektroarbeiten - Starkstromanlagen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n10245 Berlin Friedrichshain\nEr\u00f6ffnungstermin\n04.08.2025, 10:30 Uhr\nAblauf Angebotsfrist\n04.08.2025, 10:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196344"
+    },
+    {
+        "title": "PolBln 279_25 RV Technischer Service medizinische Ger\u00e4te",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n18.08.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196360"
+    },
+    {
+        "title": "Raumlufttechnische Anlagen_Lufttechnische Anlagen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13057 Berlin\nEr\u00f6ffnungstermin\n14.08.2025, 09:10 Uhr\nAblauf Angebotsfrist\n14.08.2025, 09:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196367"
     },
     {
         "title": "Grafik- und Druckdatenerstellung KKE6700",
@@ -448,55 +498,5 @@
         "title": "W\u00e4rmed\u00e4mm-Verbundsysteme_Fassadenbekleidung",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13057 Berlin\nEr\u00f6ffnungstermin\n05.08.2025, 10:10 Uhr\nAblauf Angebotsfrist\n05.08.2025, 10:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196079"
-    },
-    {
-        "title": "Gas-, Wasser- und Entw\u00e4sserungsanlagen innerhalb von Geb\u00e4uden, Heizungs- und Sanit\u00e4rarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12459 Berlin\nEr\u00f6ffnungstermin\n05.08.2025, 10:30 Uhr\nAblauf Angebotsfrist\n05.08.2025, 10:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196081"
-    },
-    {
-        "title": "Beschaffung von Meta Quest 3 und Zubeh\u00f6r",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13359 Berlin\nAblauf der Angebotsfrist\n23.07.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196086"
-    },
-    {
-        "title": "Stahlb\u00fcgel",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n23.07.2025, 08:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196088"
-    },
-    {
-        "title": "PolBln 296_25 Ferngl\u00e4ser mit Laserentfernungsmesser",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n30.07.2025, 20:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196096"
-    },
-    {
-        "title": "Sternberg_Technische Anlagen in Au\u00dfenanlagen ELT",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n06.08.2025, 11:30 Uhr\nAblauf Angebotsfrist\n06.08.2025, 11:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192534"
-    },
-    {
-        "title": "Rahmenvereinbarung zur Sch\u00e4dlingsbek\u00e4mpfung f\u00fcr das Bezirksamt Lichtenberg von Berlin",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10315 Berlin\nAblauf der Angebotsfrist\n25.07.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/192734"
-    },
-    {
-        "title": "Beschaffung von Maschinen f\u00fcr Stra\u00dfen- und Gr\u00fcnfl\u00e4chenamt",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13437 Berlin\nAblauf Angebotsfrist\n07.08.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194131"
-    },
-    {
-        "title": "20250527_1240_Baustelleneinrichtung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n13403 Berlin\nEr\u00f6ffnungstermin\n08.08.2025, 09:00 Uhr\nAblauf Angebotsfrist\n08.08.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194538"
-    },
-    {
-        "title": "Konzeptverfahren Alt-Friedrichsfelde westlich 20 - Attraktives Baugrundst\u00fcck nahe Tierpark: Ihre Chance auf \u2026",
-        "date": "Verfahrensart\nKonzeptverfahren KonzVgV (KonzVgV)\nAusf\u00fchrungsort\n10315 Berlin\nFrist\n18.09.2025, 10:10 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/195570"
-    },
-    {
-        "title": "5500 Erdarbeiten 5540 Druckrohrleitungsarbeiten im Erdreich",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10315 Berlin\nEr\u00f6ffnungstermin\n28.07.2025, 09:00 Uhr\nAblauf Angebotsfrist\n28.07.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/195625"
     }
 ]
