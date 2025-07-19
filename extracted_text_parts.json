@@ -1,15 +1,5 @@
 [
     {
-        "title": "Dies ist eine Testausschreibung. Bitte weder bewerben, noch Angebote hochladen. Es besteht \u2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n10115 Berlin\nEr\u00f6ffnungstermin\n18.07.2025, 10:45 Uhr\nAblauf Angebotsfrist\n18.07.2025, 10:45 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196461"
-    },
-    {
-        "title": "Dies ist eine Testausschreibung. Bitte weder bewerben, noch Angebote hochladen. Es besteht \u2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n10115 Berlin\nEr\u00f6ffnungstermin\n18.07.2025, 10:44 Uhr\nAblauf Angebotsfrist\n18.07.2025, 10:44 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196460"
-    },
-    {
         "title": "Gebietsbeauftragung N\u00f6rdliche Luisenstadt",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10551 Berlin\nAblauf Angebotsfrist\n19.08.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193861"
@@ -23,6 +13,16 @@
         "title": "IPW Geb\u00e4udemanagement 2025 - 2028",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12555 Berlin - K\u00f6penick\nAblauf Angebotsfrist\n19.08.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/195697"
+    },
+    {
+        "title": "PolBln 206_25 Spezkw Brand neutral 2025",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n18.08.2025, 07:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196309"
+    },
+    {
+        "title": "Ausstellung zum Wohnungsbau",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf der Angebotsfrist\n06.08.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196311"
     },
     {
         "title": "PolBln 188_25 Pkw-Transport LKA 2025",
@@ -53,6 +53,11 @@
         "title": "PolBln 317_25 Handfesseln und Handfesselschl\u00fcssel",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n05.08.2025, 20:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196455"
+    },
+    {
+        "title": "Veranstaltungstechnik",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12437 Berlin\nEr\u00f6ffnungstermin\n08.08.2025, 12:00 Uhr\nAblauf Angebotsfrist\n08.08.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196488"
     },
     {
         "title": "HW_Wartung_DellEMC_Originalsupport",
@@ -493,10 +498,5 @@
         "title": "Lieferung von STIHL Motors\u00e4gen und -zubeh\u00f6r",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n14193 Berlin\nAblauf der Angebotsfrist\n04.08.2025, 12:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196108"
-    },
-    {
-        "title": "Stahlbau- und Schlosserarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13086 Berlin\nEr\u00f6ffnungstermin\n31.07.2025, 10:30 Uhr\nAblauf Angebotsfrist\n31.07.2025, 10:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196119"
     }
 ]
