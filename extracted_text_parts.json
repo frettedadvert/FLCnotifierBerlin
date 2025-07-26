@@ -30,6 +30,11 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196555"
     },
     {
+        "title": "Rahmenvertrag Generalunternehmer Gewerbeausbau",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10367 Berlin\nEr\u00f6ffnungstermin\n29.08.2025, 11:00 Uhr\nAblauf Angebotsfrist\n29.08.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196628"
+    },
+    {
         "title": "Schadstoffsanierung und Abbrucharbeiten Bestandsgeb\u00e4ude",
         "date": "Verfahrensart\nOffenes Verfahren (VOB-EU)\nAusf\u00fchrungsort\n10969 Berlin\nAblauf Angebotsfrist\n03.09.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196639"
@@ -83,6 +88,36 @@
         "title": "Malerarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13156 Berlin\nEr\u00f6ffnungstermin\n15.08.2025, 09:00 Uhr\nAblauf Angebotsfrist\n15.08.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196765"
+    },
+    {
+        "title": "Heizanlagen und zentrale Wassererw\u00e4rmungsanlagen, Installation einer W\u00e4rmepumpe im Bestand",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12621 Berlin\nEr\u00f6ffnungstermin\n09.09.2025, 08:30 Uhr\nAblauf Angebotsfrist\n09.09.2025, 08:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196772"
+    },
+    {
+        "title": "Beschilderung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13086 Berlin\nEr\u00f6ffnungstermin\n14.08.2025, 11:00 Uhr\nAblauf Angebotsfrist\n14.08.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196773"
+    },
+    {
+        "title": "Tischlerarbeiten_Prallwand, Innent\u00fcren",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13156 Berlin\nEr\u00f6ffnungstermin\n15.08.2025, 10:00 Uhr\nAblauf Angebotsfrist\n15.08.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196774"
+    },
+    {
+        "title": "Fliesenarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13156 Berlin\nEr\u00f6ffnungstermin\n15.08.2025, 09:30 Uhr\nAblauf Angebotsfrist\n15.08.2025, 09:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196780"
+    },
+    {
+        "title": "Mauer-, Putz- und Estricharbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13156 Berlin\nEr\u00f6ffnungstermin\n12.08.2025, 09:30 Uhr\nAblauf Angebotsfrist\n12.08.2025, 09:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196782"
+    },
+    {
+        "title": "GDI Admintool",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n08.08.2025, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196793"
     },
     {
         "title": "Prozessunterst\u00fctzung zur Erarbeitung einer Berliner Kreislaufwirtschaftsstrategie",
@@ -463,40 +498,5 @@
         "title": "HW_Wartung_DellEMC_Originalsupport",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10785 Berlin\nAblauf Angebotsfrist\n22.08.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196037"
-    },
-    {
-        "title": "Freianlagen",
-        "date": "Verfahrensart\nNicht offenes Verfahren\nAusf\u00fchrungsort\n12589 Berlin - Rahnsdorf\nAblauf der Teilnahmefrist\n31.07.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196098"
-    },
-    {
-        "title": "KMA93 Gartendenkmal, Garten- und Landschaftsbau",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10243 Berlin\nEr\u00f6ffnungstermin\n14.08.2025, 09:00 Uhr\nAblauf Angebotsfrist\n14.08.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196314"
-    },
-    {
-        "title": "M339 Material FG\u00dc Anlagen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12435 Berlin\nAblauf der Angebotsfrist\n25.08.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196355"
-    },
-    {
-        "title": "PolBln 312_25 Nachtsichtger\u00e4te gem\u00e4\u00df Preisblatt-LV",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n28.07.2025, 08:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196374"
-    },
-    {
-        "title": "Betonerhaltungsarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n12.08.2025, 08:30 Uhr\nAblauf Angebotsfrist\n12.08.2025, 08:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196384"
-    },
-    {
-        "title": "Finckensteinallee 41 - Gewerke\u00fcbergreifende Ausschreibung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nEr\u00f6ffnungstermin\n12.08.2025, 11:30 Uhr\nAblauf Angebotsfrist\n12.08.2025, 11:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196386"
-    },
-    {
-        "title": "Gas-, Wasser- und Entw\u00e4sserungsanlagen innerhalb von Geb\u00e4uden, Heizung und Sanit\u00e4r",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13627 Berlin\nEr\u00f6ffnungstermin\n05.08.2025, 13:30 Uhr\nAblauf Angebotsfrist\n05.08.2025, 13:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196394"
     }
 ]
