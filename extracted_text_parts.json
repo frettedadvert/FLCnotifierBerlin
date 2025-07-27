@@ -1,5 +1,15 @@
 [
     {
+        "title": "VE 3-11 Dachabdichtungsarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12681 Berlin\nAblauf Angebotsfrist\n05.09.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196197"
+    },
+    {
+        "title": "Bahnspezifische Ingenieur- und Dienstleistungen",
+        "date": "Verfahrensart\nOffenes Verfahren\nAusf\u00fchrungsort\n13355 Berlin\nAblauf Angebotsfrist\n29.08.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/195533"
+    },
+    {
         "title": "Erdarbeiten, Pflasterarbeiten KKE4410.2",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14053 Berlin\nEr\u00f6ffnungstermin\n28.08.2025, 11:00 Uhr\nAblauf Angebotsfrist\n28.08.2025, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194069"
@@ -488,15 +498,5 @@
         "title": "PolBln 317_25 Handfesseln und Handfesselschl\u00fcssel",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n05.08.2025, 20:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196455"
-    },
-    {
-        "title": "Veranstaltungstechnik",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12437 Berlin\nEr\u00f6ffnungstermin\n08.08.2025, 12:00 Uhr\nAblauf Angebotsfrist\n08.08.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196488"
-    },
-    {
-        "title": "HW_Wartung_DellEMC_Originalsupport",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10785 Berlin\nAblauf Angebotsfrist\n22.08.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196037"
     }
 ]
