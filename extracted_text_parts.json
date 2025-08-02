@@ -50,6 +50,11 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196987"
     },
     {
+        "title": "RV Coaching- und Mediationsleistungen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOL/A)\nAusf\u00fchrungsort\n10179 Dircksenstra\u00dfe 38\nAblauf der Angebotsfrist\n22.08.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197009"
+    },
+    {
         "title": "Lieferung eines Ger\u00e4ts f\u00fcr Gaschromatographie-Massenspektrometrie - GS-MS",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13353 Berlin\nAblauf der Angebotsfrist\n29.08.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197017"
@@ -73,6 +78,16 @@
         "title": "FV25_Rahmenvertrag_Sanit\u00e4rleistungen",
         "date": "Verfahrensart\nFreih\u00e4ndige Vergabe mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12053 Berlin\nAblauf der Teilnahmefrist\n02.10.2025, 13:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197081"
+    },
+    {
+        "title": "Machbarkeitsstudie Kranoldplatz",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung\nAusf\u00fchrungsort\n12209 Berlin\nAblauf der Angebotsfrist\n29.08.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197087"
+    },
+    {
+        "title": "Errichtung Gleisverl\u00e4ngerung Verladegleis Kran 30 am BSK als Los 1 und Erneuerung \u2026",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung\nAusf\u00fchrungsort\n13353 Berlin\nEr\u00f6ffnungstermin\n02.09.2025, 12:00 Uhr\nAblauf Angebotsfrist\n02.09.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197105"
     },
     {
         "title": "Erweiterung von Schlie\u00dfanlagen Mathe KKE 329.12",
@@ -483,20 +498,5 @@
         "title": "Schadstoffsanierung und Abbrucharbeiten Bestandsgeb\u00e4ude",
         "date": "Verfahrensart\nOffenes Verfahren (VOB-EU)\nAusf\u00fchrungsort\n10969 Berlin\nAblauf Angebotsfrist\n03.09.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196639"
-    },
-    {
-        "title": "Heizungs-, L\u00fcftungs- und Sanit\u00e4rarbeiten",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB-EU)\nAusf\u00fchrungsort\n10783 Berlin\nAblauf Angebotsfrist\n28.08.2025, 09:20 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196672"
-    },
-    {
-        "title": "Elektroinstallationsarbeiten",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB-EU)\nAusf\u00fchrungsort\n10783 Berlin\nAblauf Angebotsfrist\n28.08.2025, 09:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196673"
-    },
-    {
-        "title": "Heizanlagen und zentrale Wassererw\u00e4rmungsanlagen",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf Angebotsfrist\n26.08.2025, 14:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196680"
     }
 ]
