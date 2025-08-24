@@ -1,5 +1,20 @@
 [
     {
+        "title": "Planung und Errichtung einer Wohnhausgruppe",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n13437 Berlin\nAblauf der Teilnahmefrist\n25.09.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197246"
+    },
+    {
+        "title": "Vertragsdatenbank",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb (VgV)\nAusf\u00fchrungsort\n10785 Berlin\nAblauf der Teilnahmefrist\n22.09.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197333"
+    },
+    {
+        "title": "Gr\u00fcn- und Graufl\u00e4chenpflege",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13156 Berlin\nAblauf Angebotsfrist\n25.09.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197491"
+    },
+    {
         "title": "Innent\u00fcren",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n10115 Berlin\nAblauf Angebotsfrist\n23.09.2025, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190867"
@@ -483,20 +498,5 @@
         "title": "RV Archivdienstleister",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n15.09.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196981"
-    },
-    {
-        "title": "Bodenbelagsarbeiten",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n13347 Berlin\nAblauf Angebotsfrist\n02.10.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197062"
-    },
-    {
-        "title": "Anlegen und Betreuen von Gemeinschaftsg\u00e4rten an verschiedenen Standorten in Berlin",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10785 Berlin\nAblauf der Teilnahmefrist\n15.09.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197097"
-    },
-    {
-        "title": "Klinkersanierung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12629 Berlin\nEr\u00f6ffnungstermin\n09.09.2025, 10:15 Uhr\nAblauf Angebotsfrist\n09.09.2025, 10:15 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197193"
     }
 ]
