@@ -1,5 +1,50 @@
 [
     {
+        "title": "Baustelleneinrichtung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10405 Berlin\nEr\u00f6ffnungstermin\n25.09.2025, 11:30 Uhr\nAblauf Angebotsfrist\n25.09.2025, 11:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197029"
+    },
+    {
+        "title": "60000000-8 Transportdienstleistungen",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf Angebotsfrist\n30.09.2025, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197350"
+    },
+    {
+        "title": "Rahmenvertrag Blitzschutzanlagen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10825 Berlin\nEr\u00f6ffnungstermin\n16.09.2025, 10:00 Uhr\nAblauf Angebotsfrist\n16.09.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197665"
+    },
+    {
+        "title": "Mikroskope",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13353 Berlin\nAblauf der Angebotsfrist\n22.09.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197692"
+    },
+    {
+        "title": "Beschaffung von 576 Core Lizenzen von VMware vSphere Standard 8 by Broadcom, \u2026",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13357 Berlin\nAblauf der Angebotsfrist\n15.09.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197955"
+    },
+    {
+        "title": "Elektrotechnik - Sicherheitsbeleuchtungsanlage",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14197 Berlin\nEr\u00f6ffnungstermin\n22.09.2025, 10:10 Uhr\nAblauf Angebotsfrist\n22.09.2025, 10:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197969"
+    },
+    {
+        "title": "Externe Unterst\u00fctzungsleistung",
+        "date": "Verfahrensart\nVerhandlungsvergabe mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10318 Berlin\nAblauf der Teilnahmefrist\n22.09.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197972"
+    },
+    {
+        "title": "LZQ Gebietsbeauftragte 2025",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb (VgV)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf der Teilnahmefrist\n06.10.2025, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191003"
+    },
+    {
+        "title": "Zimmer- und Holzbauarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf Angebotsfrist\n30.09.2025, 09:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198014"
+    },
+    {
         "title": "Putz- und Stuckarbeiten",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf Angebotsfrist\n30.09.2025, 09:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197963"
@@ -8,6 +53,11 @@
         "title": "Gew\u00e4sserunterhaltung 2. Ordnung Mitte u. Neuk\u00f6lln 26-29",
         "date": "Verfahrensart\nOffenes Verfahren\nAusf\u00fchrungsort\n13355 Berlin\nAblauf Angebotsfrist\n09.10.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197828"
+    },
+    {
+        "title": "Fenstererneuerung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13189 Berlin\nEr\u00f6ffnungstermin\n18.09.2025, 11:15 Uhr\nAblauf Angebotsfrist\n18.09.2025, 11:15 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196910"
     },
     {
         "title": "Generalunternehmer Ausbaugewerke",
@@ -448,55 +498,5 @@
         "title": "Ger\u00fcstarbeiten, Ger\u00fcstarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n16.09.2025, 10:50 Uhr\nAblauf Angebotsfrist\n16.09.2025, 10:50 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197781"
-    },
-    {
-        "title": "Geb\u00e4udemanagement 2026 - 2028",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12459 Berlin\nAblauf Angebotsfrist\n30.09.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197463"
-    },
-    {
-        "title": "Gutachterleistungen zur orientierenden Bewertung der Boden-, Baugrund- und Grundwassersituation",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf Angebotsfrist\n30.09.2025, 18:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/190118"
-    },
-    {
-        "title": "Aktualisierung und Erstellung von Raumdateien der Schulen im Bezirk Berlin-Mitte",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10551 Berlin\nAblauf der Angebotsfrist\n10.09.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191936"
-    },
-    {
-        "title": "D.12 Qualifizierung des Spielplatzes am Senftenberger Ring - Planung und bauliche Umsetzung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13435 Berlin\nAblauf der Angebotsfrist\n04.09.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/195074"
-    },
-    {
-        "title": "FV25_RV_Fenster- und Tischlerarbeiten",
-        "date": "Verfahrensart\nFreih\u00e4ndige Vergabe mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12053 Berlin\nAblauf der Teilnahmefrist\n30.10.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197065"
-    },
-    {
-        "title": "Niederspannungsanlagen - Verteilsysteme, Einbauger\u00e4te Niederspannungsanlagen - Kabel, Verlegesysteme",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10551 Berlin\nEr\u00f6ffnungstermin\n07.10.2025, 09:00 Uhr\nAblauf Angebotsfrist\n07.10.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197072"
-    },
-    {
-        "title": "Sozialstudie Sanierungsgebiet Badstra\u00dfe Pankstra\u00dfe, Erarbeitung einer Sozialstudie und Ableitung sozialer Sanierungsziele \u2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13357 Berlin\nAblauf der Angebotsfrist\n15.09.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197172"
-    },
-    {
-        "title": "Organisation und Durchf\u00fchrung einer Quantencomputer-Programmier-Challenge",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10825 Berlin\nAblauf der Angebotsfrist\n17.09.2025, 08:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197219"
-    },
-    {
-        "title": "VVmT25_Errichtung von Photvoltaikanlagen",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12053 Berlin\nAblauf der Teilnahmefrist\n22.09.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197484"
-    },
-    {
-        "title": "Sanierung Radweg TR 7 zwischen Mehrower Allee und Wuhletalstrasse",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12681 Berlin\nEr\u00f6ffnungstermin\n05.09.2025, 10:15 Uhr\nAblauf Angebotsfrist\n05.09.2025, 10:15 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197539"
     }
 ]
