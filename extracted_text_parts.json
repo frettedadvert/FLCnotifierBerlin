@@ -55,11 +55,6 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198218"
     },
     {
-        "title": "Achtung: Dies ist eine Testvergabe, bitte weder bewerben, noch ein Angebot abgeben.",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n99999 Ortstadt\nEr\u00f6ffnungstermin\n05.09.2025, 11:20 Uhr\nAblauf Angebotsfrist\n05.09.2025, 11:20 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198219"
-    },
-    {
         "title": "Metallbauarbeiten, Schlosserarbeiten - Metallbau- und Beschlagarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10623 Berlin\nEr\u00f6ffnungstermin\n23.09.2025, 10:10 Uhr\nAblauf Angebotsfrist\n23.09.2025, 10:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198220"
@@ -498,5 +493,10 @@
         "title": "VE 3430 - Fenster-Au\u00dfent\u00fcren-Sonnenschutz",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13055 Berlin\nEr\u00f6ffnungstermin\n18.09.2025, 09:01 Uhr\nAblauf Angebotsfrist\n18.09.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196799"
+    },
+    {
+        "title": "Hardware 2025",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10117 Berlin\nAblauf der Angebotsfrist\n24.09.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196843"
     }
 ]
