@@ -1,5 +1,10 @@
 [
     {
+        "title": "KG 300-VE15 Metallbauarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12437 Berlin\nAblauf Angebotsfrist\n06.10.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198201"
+    },
+    {
         "title": "Fachplanung der Technischen Ausr\u00fcstung gem\u00e4\u00df Paragraph 53 ff HOAI 2021",
         "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Teilnahmefrist\n07.10.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196629"
@@ -493,10 +498,5 @@
         "title": "VE 3430 - Fenster-Au\u00dfent\u00fcren-Sonnenschutz",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13055 Berlin\nEr\u00f6ffnungstermin\n18.09.2025, 09:01 Uhr\nAblauf Angebotsfrist\n18.09.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196799"
-    },
-    {
-        "title": "Hardware 2025",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10117 Berlin\nAblauf der Angebotsfrist\n24.09.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196843"
     }
 ]
