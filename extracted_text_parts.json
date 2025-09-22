@@ -1,5 +1,30 @@
 [
     {
+        "title": "Planungsleistungen Technische Ausr\u00fcstung ALG 4, HOAI",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n14163 Berlin\nAblauf der Angebotsfrist\n27.10.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198389"
+    },
+    {
+        "title": "Rahmenvertrag Entsorgungsleistungen von nutzerspezifischen Abf\u00e4llen",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV/EU)\nAusf\u00fchrungsort\n10000 Berlin\nAblauf Angebotsfrist\n28.10.2025, 10:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198569"
+    },
+    {
+        "title": "Planung, Erschlie\u00dfung und Betrieb der Netzwerkinfrastruktur f\u00fcr den Glasfaseranschluss an das \u00f6ffentliche \u2026",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10247 Berlin Friedrichshain\nAblauf der Angebotsfrist\n07.10.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198580"
+    },
+    {
+        "title": "Berlin TXL - Sicherheitsdienstleistungen",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13405 Berlin\nAblauf Angebotsfrist\n20.10.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198646"
+    },
+    {
+        "title": "Leistung der Generalplanung als Rahmenvertrag f\u00fcr insgesamt 3 bis 6 Standorte",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb (VgV)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf der Teilnahmefrist\n23.10.2025, 10:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194496"
+    },
+    {
         "title": "ITDZ Berlin: OV RV Grafik, PPT, Text",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10713 Berlin\nAblauf Angebotsfrist\n28.10.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194130"
@@ -473,30 +498,5 @@
         "title": "Erstellung eines Bedarfsprogrammes f\u00fcr den Neubau der Jugendverkehrsschule Wedding",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13357 Berlin\nAblauf der Angebotsfrist\n02.10.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197788"
-    },
-    {
-        "title": "B\u00fchnentechnik BT 3",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12099 Berlin\nAblauf Angebotsfrist\n14.10.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197965"
-    },
-    {
-        "title": "GaLaBau-Leistungen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13355 Berlin\nEr\u00f6ffnungstermin\n02.10.2025, 11:00 Uhr\nAblauf Angebotsfrist\n02.10.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198023"
-    },
-    {
-        "title": "Leistungen der Objekt- und Fachplanung sowie besondere Leistungen",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n13355 Berlin\nAblauf der Teilnahmefrist\n17.10.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198024"
-    },
-    {
-        "title": "F\u00f6rderanlagen",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB-EU)\nAusf\u00fchrungsort\n10783 Berlin\nAblauf Angebotsfrist\n14.10.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198039"
-    },
-    {
-        "title": "Migration von Axis2 zu Apache CXF",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10099 Berlin\nAblauf der Angebotsfrist\n30.09.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198223"
     }
 ]
