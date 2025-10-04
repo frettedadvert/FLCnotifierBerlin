@@ -1,5 +1,10 @@
 [
     {
+        "title": "Trockenbauarbeiten, WE 2120 Prinzenallee 82 in 13357 Berlin",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB-EU)\nAusf\u00fchrungsort\n13357 Berlin\nAblauf Angebotsfrist\n05.11.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198737"
+    },
+    {
         "title": "Rahmenvertrag Arbeitskleidung und Sicherheitsschuhen",
         "date": "Verfahrensart\nOffenes Verfahren (VOL/EU)\nAusf\u00fchrungsort\n10367 Berlin\nAblauf Angebotsfrist\n03.11.2025, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/194784"
@@ -58,6 +63,11 @@
         "title": "Baumf\u00e4ll- und Rodungsarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n10179 Berlin\nEr\u00f6ffnungstermin\n23.10.2025, 10:00 Uhr\nAblauf Angebotsfrist\n23.10.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198862"
+    },
+    {
+        "title": "Facility Management Polizei Dir. 2 und 4",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10000 Berlin\nAblauf der Teilnahmefrist\n04.11.2025, 11:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198953"
     },
     {
         "title": "Baustelleneinrichtung",
@@ -488,15 +498,5 @@
         "title": "Metallbauarbeiten, Schlosserarbeiten, Fenstersanierung",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14059 Berlin\nEr\u00f6ffnungstermin\n16.10.2025, 10:10 Uhr\nAblauf Angebotsfrist\n16.10.2025, 10:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198828"
-    },
-    {
-        "title": "Klempnerarbeiten, Dachabdichtung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14059 Berlin\nEr\u00f6ffnungstermin\n16.10.2025, 10:30 Uhr\nAblauf Angebotsfrist\n16.10.2025, 10:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198848"
-    },
-    {
-        "title": "06-Metallbau, Au\u00dfen und Innent\u00fcren",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12627 Berlin\nAblauf Angebotsfrist\n31.10.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198173"
     }
 ]
