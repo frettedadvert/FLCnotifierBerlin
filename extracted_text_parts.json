@@ -1,5 +1,40 @@
 [
     {
+        "title": "07- Trockenbau",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12627 Berlin\nAblauf Angebotsfrist\n10.11.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198399"
+    },
+    {
+        "title": "Rahmenvertrag - Baumpflegearbeiten 2026-2028",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10825 Berlin\nAblauf Angebotsfrist\n06.11.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198647"
+    },
+    {
+        "title": "VE 16 Metallbauarbeiten, Gitterroste, Gel\u00e4nder, Stahltreppen",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12621 Berlin\nAblauf Angebotsfrist\n07.11.2025, 10:15 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198670"
+    },
+    {
+        "title": "Weiterbetrieb des Raums f\u00fcr Beteiligung in Charlottenburg-Wilmersdorf",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb (VgV)\nAusf\u00fchrungsort\n10585 Berlin\nAblauf der Teilnahmefrist\n07.11.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199035"
+    },
+    {
+        "title": "Baustelleneinrichtung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13353 Berlin\nEr\u00f6ffnungstermin\n06.11.2025, 10:00 Uhr\nAblauf Angebotsfrist\n06.11.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199109"
+    },
+    {
+        "title": "bauliche Interinmsma\u00dfnahme - Lieferung und Montage Schlie\u00dfanlage",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n10999 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n27.10.2025, 10:00 Uhr\nAblauf Angebotsfrist\n27.10.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199192"
+    },
+    {
+        "title": "Maler- und Lackierarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n10245 Berlin Friedrichshain\nEr\u00f6ffnungstermin\n28.10.2025, 10:00 Uhr\nAblauf Angebotsfrist\n28.10.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199200"
+    },
+    {
         "title": "K\u00fcchentechnische Anlagen",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n10115 Berlin\nAblauf Angebotsfrist\n06.11.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197167"
@@ -8,6 +43,16 @@
         "title": "Dienstpostaustausch",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf Angebotsfrist\n05.11.2025, 12:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197908"
+    },
+    {
+        "title": "ITDZ Berlin: SaaS-Umfrageplattform LimeSurvey",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10713 Berlin\nAblauf der Angebotsfrist\n21.10.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198204"
+    },
+    {
+        "title": "Durchf\u00fchrung eines integrierten Regenwassermanagements f\u00fcr Moabit in Berlin Mitte",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Angebotsfrist\n07.11.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198581"
     },
     {
         "title": "VE 3.09_Estricharbeiten DIN 18353, Abdichtungsarbeiten DIN 18336, Beschichtungen 18363",
@@ -58,6 +103,31 @@
         "title": "KI-gest\u00fctzte Prozessinnovation und Kompetenzaufbau",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10117 Berlin\nAblauf der Angebotsfrist\n28.10.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199155"
+    },
+    {
+        "title": "Erfassung von Vegetation und Flora - naturschutzfachliches Monitoring",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13405 Berlin\nAblauf der Angebotsfrist\n04.11.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199157"
+    },
+    {
+        "title": "Erfassung von Heuschrecken und Grillen - naturschutzfachliches Monitoring",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13405 Berlin\nAblauf der Angebotsfrist\n04.11.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199162"
+    },
+    {
+        "title": "Beschaffung von Nova Wood-Regalen des Herstellers EcoDesignLibrary f\u00fcr die Medienbereitstellung im BLiQ",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n14059 Berlin\nAblauf der Angebotsfrist\n21.10.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199164"
+    },
+    {
+        "title": "Erfassung von Tagfaltern - naturschutzfachliches Monitoring",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13405 Berlin\nAblauf der Angebotsfrist\n04.11.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199165"
+    },
+    {
+        "title": "Erfassung von Wildbienen - naturschutzfachliches Monitoring",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13405 Berlin\nAblauf der Angebotsfrist\n04.11.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199168"
     },
     {
         "title": "Diverse Ger\u00e4te f\u00fcr Laborausstattung",
@@ -428,75 +498,5 @@
         "title": "VMware Horizon Subscription",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12043 Berlin\nAblauf der Angebotsfrist\n17.10.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198866"
-    },
-    {
-        "title": "Bauwerksabdichtung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14109 Berlin\nEr\u00f6ffnungstermin\n27.10.2025, 11:00 Uhr\nAblauf Angebotsfrist\n27.10.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198907"
-    },
-    {
-        "title": "F\u00f6rderanlagen, Aufzugsanlagen, Fahrtreppen und Fahrsteige-F\u00f6rderanlagen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12169 Berlin\nEr\u00f6ffnungstermin\n16.10.2025, 10:50 Uhr\nAblauf Angebotsfrist\n16.10.2025, 10:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198921"
-    },
-    {
-        "title": "PI Demontage Gittertrennw\u00e4nde",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10999 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n10.10.2025, 11:00 Uhr\nAblauf Angebotsfrist\n10.10.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198924"
-    },
-    {
-        "title": "Rahmenvereinbarung Generalunternehmerleistungen MOD",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10559 Berlin\nAblauf der Teilnahmefrist\n27.10.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198545"
-    },
-    {
-        "title": "Fortf\u00fchrung und Weiterentwicklung der zentralen Koordinierungsstelle und KOPA-Plattform Berlin",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nAblauf Angebotsfrist\n27.10.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196174"
-    },
-    {
-        "title": "384.3-2 Abbrucharbeiten Umfahrung, R\u00fcckbau Asphalt_Pflasterbelag Innenring inkl. Entsorgung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13405 Berlin\nEr\u00f6ffnungstermin\n29.10.2025, 13:00 Uhr\nAblauf Angebotsfrist\n29.10.2025, 13:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198009"
-    },
-    {
-        "title": "Einsammeln und Entsorgen von Pappe-, Papier- und Kartonageabf\u00e4llen",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10559 Berlin\nAblauf Angebotsfrist\n27.10.2025, 10:40 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198412"
-    },
-    {
-        "title": "Lieferung und Montage Videoleinwand",
-        "date": "Verfahrensart\nOffenes Verfahren (Vergabeverordnung (VgV))\nAusf\u00fchrungsort\n12437 Berlin\nAblauf Angebotsfrist\n30.10.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198633"
-    },
-    {
-        "title": "Gew\u00e4sserunterhaltung 2. Ordnung S\u00fcdwest 26-29",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13355 Berlin\nAblauf Angebotsfrist\n30.10.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198674"
-    },
-    {
-        "title": "Rahmenvertrag zur Unterst\u00fctzung bei Umweltpr\u00fcfungen und Umweltberichten f\u00fcr \u00c4nderungen des Fl\u00e4chennutzungsplans Berlin",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf Angebotsfrist\n03.11.2025, 13:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198768"
-    },
-    {
-        "title": "Rahmenvertrag DGUV V3 Pr\u00fcfung ortsver\u00e4nderliche Anlagen und Betriebsmittel, Laufzeit 6 Jahre maximal",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10115 Berlin\nAblauf der Angebotsfrist\n17.10.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198795"
-    },
-    {
-        "title": "Umr\u00fcstung der Beleuchtung auf LED am Standort Dahlwitzer Landstr. 4, 12587 Berlin",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12587 Berlin\nAblauf der Angebotsfrist\n10.10.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198816"
-    },
-    {
-        "title": "Datenschleuse",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n10.10.2025, 08:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198819"
-    },
-    {
-        "title": "Rahmenvertragsarbeiten gem. STLB-Z LB 621, Ausgabe 2023-07 D\u00e4mmarbeiten an techn. Anlagen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n13597 Berlin\nEr\u00f6ffnungstermin\n24.10.2025, 10:00 Uhr\nAblauf Angebotsfrist\n24.10.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198835"
     }
 ]
