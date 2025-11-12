@@ -1,13 +1,68 @@
 [
     {
+        "title": "Ersatzneubau Haus der Jugendverbandsarbeit",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb (VgV)\nAusf\u00fchrungsort\n12099 Berlin\nAblauf der Teilnahmefrist\n12.12.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197243"
+    },
+    {
+        "title": "Malerarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n10115 Berlin\nAblauf Angebotsfrist\n11.12.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198061"
+    },
+    {
+        "title": "Rahmenvertrag \u00fcber Lieferung und Wartung von Kaffeemaschinen sowie Lieferung von Kaffeebohnen",
+        "date": "Verfahrensart\nOffenes Verfahren (VOL/EU)\nAusf\u00fchrungsort\n10365 Berlin\nAblauf Angebotsfrist\n11.12.2025, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200195"
+    },
+    {
+        "title": "JF Base Caps",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n21.11.2025, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200458"
+    },
+    {
+        "title": "Doppeldurchgangsumkleidekabine",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13503 Berlin\nAblauf der Angebotsfrist\n19.11.2025, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200464"
+    },
+    {
+        "title": "Gas-, Wasser- und Entw\u00e4sserungsanlagen innerhalb von Geb\u00e4uden, Sanit\u00e4ranlagen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14979 Gro\u00dfbeeren\nEr\u00f6ffnungstermin\n09.12.2025, 09:50 Uhr\nAblauf Angebotsfrist\n09.12.2025, 09:50 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200465"
+    },
+    {
+        "title": "Subscription Verl\u00e4ngerung UNICON Scout Enterprise",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10407 Berlin\nAblauf der Angebotsfrist\n21.11.2025, 18:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200468"
+    },
+    {
+        "title": "KFZ-Ersatzteile Hella Bosch",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n19.11.2025, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200470"
+    },
+    {
+        "title": "Elektroarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10115 Berlin\nEr\u00f6ffnungstermin\n04.12.2025, 09:00 Uhr\nAblauf Angebotsfrist\n04.12.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200472"
+    },
+    {
         "title": "Planung Ingenieurbauwerke und Verkehrsanlagen",
         "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n13355 Berlin\nAblauf der Teilnahmefrist\n12.12.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/197320"
     },
     {
+        "title": "W\u00e4rmeversorgungsanlagen, Neuinstallation der heizungstechnischen Anlagen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13353 Berlin\nEr\u00f6ffnungstermin\n12.12.2025, 10:00 Uhr\nAblauf Angebotsfrist\n12.12.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199221"
+    },
+    {
         "title": "Generalplanung Sanierung, Umbau und Erweiterung Schulcampus",
         "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12459 Berlin- Obersch\u00f6neweide\nAblauf der Teilnahmefrist\n11.12.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199228"
+    },
+    {
+        "title": "Raumlufttechnische Anlagen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13353 Berlin\nEr\u00f6ffnungstermin\n12.12.2025, 10:30 Uhr\nAblauf Angebotsfrist\n12.12.2025, 10:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199242"
     },
     {
         "title": "Rohbau- und Zimmerarbeiten im Denkmal",
@@ -33,6 +88,26 @@
         "title": "Erg\u00e4nzungsbau - 380.001 Rohbau",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14199 Berlin\nEr\u00f6ffnungstermin\n10.12.2025, 10:10 Uhr\nAblauf Angebotsfrist\n10.12.2025, 10:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200393"
+    },
+    {
+        "title": "PAST 851_25 B\u00fcromaterial in 3 Losen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n25.11.2025, 20:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200399"
+    },
+    {
+        "title": "Denkmalgerechte Fenster- und Tischlerarbeiten, WE 77450 Kurf\u00fcrstenstr. 153, 10785 Berlin",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10559 Berlin\nEr\u00f6ffnungstermin\n10.12.2025, 09:00 Uhr\nAblauf Angebotsfrist\n10.12.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200404"
+    },
+    {
+        "title": "Luftlage Software Einsatzdrohnen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n18.11.2025, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200430"
+    },
+    {
+        "title": "Ger\u00fcstarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14050 Berlin\nEr\u00f6ffnungstermin\n02.12.2025, 10:50 Uhr\nAblauf Angebotsfrist\n02.12.2025, 10:50 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200448"
     },
     {
         "title": "Ger\u00fcstarbeiten",
@@ -380,11 +455,6 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200198"
     },
     {
-        "title": "Trainer Brandverhalten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13503 Berlin\nAblauf der Angebotsfrist\n12.11.2025, 08:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200202"
-    },
-    {
         "title": "Dachsanierung Gr\u00fcnd\u00e4cher - WE 77115 - Frobenstr. 14, 15 in 10783 Berlin",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10783 Berlin\nEr\u00f6ffnungstermin\n03.12.2025, 09:30 Uhr\nAblauf Angebotsfrist\n03.12.2025, 09:30 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200207"
@@ -428,75 +498,5 @@
         "title": "Abbrucharbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13353 Berlin\nEr\u00f6ffnungstermin\n01.12.2025, 10:00 Uhr\nAblauf Angebotsfrist\n01.12.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200044"
-    },
-    {
-        "title": "Leistungen der Freianlagenplanung zur Entwicklung eines Sportparks auf der Fl\u00e4che des Stadion \u2026",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n13599 Berlin\nAblauf der Teilnahmefrist\n04.12.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200058"
-    },
-    {
-        "title": "Installation einer On-Prem L\u00f6sung zum externen Dateitransfer",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10247 Berlin Friedrichshain\nAblauf der Angebotsfrist\n17.11.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200069"
-    },
-    {
-        "title": "Tegel Projekt GmbH - Konferenzsysteme Geb. V",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13405 Berlin\nAblauf der Angebotsfrist\n24.11.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200110"
-    },
-    {
-        "title": "Sicherheitsschrank Typ 90",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12105 Berlin\nAblauf der Angebotsfrist\n18.11.2025, 08:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200117"
-    },
-    {
-        "title": "F\u00f6rderanlagen, Aufzugsanlagen, Fahrtreppen und Fahrsteige_F\u00f6rderanlagen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12169 Berlin\nEr\u00f6ffnungstermin\n20.11.2025, 13:10 Uhr\nAblauf Angebotsfrist\n20.11.2025, 13:10 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200162"
-    },
-    {
-        "title": "Allgemeine Regeln f\u00fcr Bauarbeiten jeder Art_Dach- und Zimmerarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10963 Berlin\nEr\u00f6ffnungstermin\n20.11.2025, 13:50 Uhr\nAblauf Angebotsfrist\n20.11.2025, 13:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200174"
-    },
-    {
-        "title": "Druck Plakat Jugend mischt mit",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10623 Berlin\nAblauf der Angebotsfrist\n14.11.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200176"
-    },
-    {
-        "title": "Rahmenvertrag Webagentur, Onlineagentur",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VgV)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf Angebotsfrist\n20.11.2025, 14:10 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200178"
-    },
-    {
-        "title": "7360 - Fachplanung Technische Ausr\u00fcstung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (Freiberufliche Leistungen)\nAusf\u00fchrungsort\n10365 Berlin\nAblauf der Angebotsfrist\n24.11.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198771"
-    },
-    {
-        "title": "Erstellung eines Umsetzungsplans konkreter Klimaschutz- und Klimaanpassungsma\u00dfnahmen f\u00fcr das F\u00f6rder- und Sanierungsgebiet \u2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13357 Berlin\nAblauf der Angebotsfrist\n24.11.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199233"
-    },
-    {
-        "title": "Dachdecker und Klempner - Dachbadichtung und Gr\u00fcndach",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12489 Berlin\nEr\u00f6ffnungstermin\n08.12.2025, 10:00 Uhr\nAblauf Angebotsfrist\n08.12.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199764"
-    },
-    {
-        "title": "Metallbau - Fenster und T\u00fcren",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12489 Berlin\nEr\u00f6ffnungstermin\n09.12.2025, 10:00 Uhr\nAblauf Angebotsfrist\n09.12.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199765"
-    },
-    {
-        "title": "Rahmenvertrag Baugrunduntersuchungen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (LHO/ UVgO)\nAusf\u00fchrungsort\n10407 Berlin\nAblauf der Angebotsfrist\n20.11.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200022"
-    },
-    {
-        "title": "Extruder",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13353 Berlin\nAblauf der Angebotsfrist\n24.11.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200053"
     }
 ]
