@@ -1,5 +1,10 @@
 [
     {
+        "title": "Betriebsleistungen f\u00fcr Fl\u00fcchtlingsunterk\u00fcnfte 85311000-2",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10589 Berlin\nAblauf Angebotsfrist\n15.05.2026, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200285"
+    },
+    {
         "title": "Leuchtenlieferung",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10315 Berlin\nAblauf der Angebotsfrist\n01.12.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200696"
@@ -493,10 +498,5 @@
         "title": "Metallbauarbeiten, Schlosserarbeiten",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n12169 Berlin\nAblauf Angebotsfrist\n16.12.2025, 08:50 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200414"
-    },
-    {
-        "title": "Pr\u00fcfung und Instandhaltung 2026-2029",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12055 Berlin\nAblauf der Angebotsfrist\n09.12.2025, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200476"
     }
 ]
