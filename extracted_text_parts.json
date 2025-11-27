@@ -1,13 +1,63 @@
 [
     {
+        "title": "Erweiterter Rohbau - Zielturm",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12527 Berlin - Gr\u00fcnau\nEr\u00f6ffnungstermin\n19.12.2025, 09:00 Uhr\nAblauf Angebotsfrist\n19.12.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200564"
+    },
+    {
+        "title": "Lieferung von Masten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13355 Berlin\nAblauf der Angebotsfrist\n11.12.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200810"
+    },
+    {
+        "title": "Tischlerarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\nnull\nAblauf Angebotsfrist\n08.01.2026, 08:50 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200847"
+    },
+    {
         "title": "Elektrohaushaltsger\u00e4te",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf Angebotsfrist\n07.01.2026, 12:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200506"
     },
     {
+        "title": "Neubau Bahn\u00fcbergang km 1,2 der Strecke 201S, Bahnhofsgleis 202 Berlin Nordost",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12681 Berlin\nEr\u00f6ffnungstermin\n07.01.2026, 10:00 Uhr\nAblauf Angebotsfrist\n07.01.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200535"
+    },
+    {
+        "title": "Baustellensicherheit - Video\u00fcberwachung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12414 Berlin\nAblauf der Angebotsfrist\n15.12.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200678"
+    },
+    {
+        "title": "B\u00fccherbeschaffung und Lieferung bearbeiteter B\u00fccher 2026 in 4 Losen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13597 Berlin\nAblauf der Angebotsfrist\n18.12.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200832"
+    },
+    {
         "title": "Dachdeckungs- und Dachabdichtungsarbeiten Dachdeckerarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14050 Berlin\nEr\u00f6ffnungstermin\n08.01.2026, 09:10 Uhr\nAblauf Angebotsfrist\n08.01.2026, 09:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200897"
+    },
+    {
+        "title": "Baureinigung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOL/A)\nAusf\u00fchrungsort\n13347 Berlin\nAblauf der Angebotsfrist\n18.12.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200915"
+    },
+    {
+        "title": "ITIL 4 -Schulung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n01.12.2025, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200919"
+    },
+    {
+        "title": "Erwerb datango-Campuslizenz",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf der Angebotsfrist\n08.12.2025, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200923"
+    },
+    {
+        "title": "Radiokampagne Ausbildung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Angebotsfrist\n02.12.2025, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200931"
     },
     {
         "title": "Dachdeckerarbeiten Kunststoffbahn",
@@ -58,11 +108,6 @@
         "title": "K\u00fcnstlerische Beschichtung Monte Carlo Drive",
         "date": "Verfahrensart\nFreih\u00e4ndige Vergabe mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12437 Berlin\nAblauf der Teilnahmefrist\n05.02.2026, 12:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200816"
-    },
-    {
-        "title": "Unterst\u00fctzungsleistung Vorprojekt ITSM",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n27.11.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200818"
     },
     {
         "title": "Atemschutz\u00fcberwachung",
@@ -280,11 +325,6 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200749"
     },
     {
-        "title": "Verl\u00e4ngerung von Softwarevertr\u00e4gen f\u00fcr Firewalls der Berliner Steuerverwaltung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10407 Berlin\nAblauf der Angebotsfrist\n26.11.2025, 18:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200751"
-    },
-    {
         "title": "Eschenallee 3 - Tischlerarbeiten M\u00f6bel",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14050 Berlin\nEr\u00f6ffnungstermin\n06.01.2026, 10:10 Uhr\nAblauf Angebotsfrist\n06.01.2026, 10:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200754"
@@ -458,45 +498,5 @@
         "title": "Rahmenvertrag Pf\u00f6rtner-, Empfangs- und Sicherheitsdienstleistungen 2026",
         "date": "Verfahrensart\nOffenes Verfahren (VgV/EU)\nAusf\u00fchrungsort\n10000 Berlin\nAblauf Angebotsfrist\n06.01.2026, 08:30 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200557"
-    },
-    {
-        "title": "Weiterbeauftragung Cloud",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12099 Berlin\nAblauf der Angebotsfrist\n11.12.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200609"
-    },
-    {
-        "title": "F\u00f6rderanlagen, Aufzugsanlagen, Fahrtreppen und Fahrsteige B\u00fchnentechnik",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10117 Berlin\nEr\u00f6ffnungstermin\n08.01.2026, 08:30 Uhr\nAblauf Angebotsfrist\n08.01.2026, 08:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200638"
-    },
-    {
-        "title": "Wach- und Sicherheitsdienste",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12305 Berlin\nAblauf der Angebotsfrist\n02.12.2025, 14:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200673"
-    },
-    {
-        "title": "PolBln 502_25 RV Namens-u. Dienstnummern, R\u00fcckenkennzeichen, Funktionsabzeichen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n12.12.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200674"
-    },
-    {
-        "title": "Meldeanlagen Notbeleuchtung Leuchten und Lampen Niederspannungsanlagen - Kabel, Verlegesysteme",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (LHO)\nAusf\u00fchrungsort\n10115 Berlin\nAblauf der Angebotsfrist\n03.12.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/196907"
-    },
-    {
-        "title": "Sanierung der Kellerw\u00e4nde im Bauteil 1 Ernst-Schering-Oberschule L\u00fctticher Str. 47-48 13353 Berlin",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13353 Berlin\nEr\u00f6ffnungstermin\n15.01.2026, 10:00 Uhr\nAblauf Angebotsfrist\n15.01.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199819"
-    },
-    {
-        "title": "Beschaffung einer Microport-Anlage f\u00fcr den Theaterbetrieb an der Volksb\u00fchne",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf der Angebotsfrist\n27.11.2025, 20:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200461"
-    },
-    {
-        "title": "KG 434 K\u00e4lteanlagen - Erneuerung K\u00fchlwasserleitung Edelstahl",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n14195 Berlin\nEr\u00f6ffnungstermin\n15.12.2025, 13:00 Uhr\nAblauf Angebotsfrist\n15.12.2025, 13:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200480"
     }
 ]
