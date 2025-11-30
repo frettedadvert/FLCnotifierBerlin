@@ -1,5 +1,15 @@
 [
     {
+        "title": "WC-Trennw\u00e4nde",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB / A - EU)\nAusf\u00fchrungsort\n13595 Berlin\nAblauf Angebotsfrist\n07.01.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200835"
+    },
+    {
+        "title": "Neubau TBW 1, TBW 2 und R\u00fcckbau TBW 2",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb (VOB - EU)\nAblauf der Teilnahmefrist\n19.12.2025, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200694"
+    },
+    {
         "title": "Abbruch- und R\u00fcckbauarbeiten_R\u00fcckbau Infrastruktur und Selbstverwendung Container",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13053 Berlin\nEr\u00f6ffnungstermin\n18.12.2025, 09:30 Uhr\nAblauf Angebotsfrist\n18.12.2025, 09:30 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201009"
@@ -488,15 +498,5 @@
         "title": "Maler- und Lackierarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n10249 Berlin Friedrichshain\nEr\u00f6ffnungstermin\n08.12.2025, 10:30 Uhr\nAblauf Angebotsfrist\n08.12.2025, 10:30 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200715"
-    },
-    {
-        "title": "Herstellung, Konfektionierung und Lieferung von Schulvordrucken",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf der Angebotsfrist\n03.12.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200728"
-    },
-    {
-        "title": "Feurerl\u00f6schanlagen, Feuerl\u00f6schger\u00e4te",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13407 Berlin\nAblauf der Angebotsfrist\n10.12.2025, 09:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/193747"
     }
 ]
