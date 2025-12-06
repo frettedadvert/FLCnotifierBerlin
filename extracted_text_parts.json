@@ -5,9 +5,19 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201042"
     },
     {
+        "title": "Lieferung von mehreren Laborger\u00e4ten f\u00fcr das Labor Analytik der Lebensmittel und Bedarfsgegenst\u00e4nde",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13353 Berlin\nAblauf der Angebotsfrist\n12.01.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201089"
+    },
+    {
         "title": "Sicherheitsdienste Bibliotheksstandorte",
         "date": "Verfahrensart\nOffenes Verfahren (VgV/EU)\nAusf\u00fchrungsort\n10247 Berlin Friedrichshain\nAblauf Angebotsfrist\n05.01.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201096"
+    },
+    {
+        "title": "Umgestaltung Au\u00dfenanlagen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10117 Berlin\nEr\u00f6ffnungstermin\n08.01.2026, 09:00 Uhr\nAblauf Angebotsfrist\n08.01.2026, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201185"
     },
     {
         "title": "Lieferung von Schulausstattungen",
@@ -305,11 +315,6 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200975"
     },
     {
-        "title": "Anschaffung Scheinwerfer f\u00fcr Veranstaltungstechnik",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10117 Berlin\nAblauf der Angebotsfrist\n05.12.2025, 13:55 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200996"
-    },
-    {
         "title": "Erweiterter Rohbau - Zielturm",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12527 Berlin - Gr\u00fcnau\nEr\u00f6ffnungstermin\n19.12.2025, 09:00 Uhr\nAblauf Angebotsfrist\n19.12.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200564"
@@ -493,10 +498,5 @@
         "title": "Eschenallee 3 - Pflasterarbeiten, Ga-La-Bau",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14050 Berlin\nEr\u00f6ffnungstermin\n06.01.2026, 09:50 Uhr\nAblauf Angebotsfrist\n06.01.2026, 09:50 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200802"
-    },
-    {
-        "title": "Kamerasystem f\u00fcr Impaktorpr\u00fcfstand",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10318 Berlin\nAblauf der Angebotsfrist\n12.12.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200806"
     }
 ]
