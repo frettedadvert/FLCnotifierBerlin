@@ -1,5 +1,10 @@
 [
     {
+        "title": "W\u00e4rmeversorgungsanlagen",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12487 Berlin- Johannisthal\nAblauf Angebotsfrist\n20.01.2026, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201028"
+    },
+    {
         "title": "Verkehrsanlagenplanung einschlie\u00dflich Freianlagen f\u00fcr die Neugestaltung der Weichselstra\u00dfe im Bezirk Neuk\u00f6lln",
         "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12045 Berlin\nAblauf der Teilnahmefrist\n15.01.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201042"
@@ -493,10 +498,5 @@
         "title": "L\u00fcftungsarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n23.12.2025, 09:00 Uhr\nAblauf Angebotsfrist\n23.12.2025, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200784"
-    },
-    {
-        "title": "Eschenallee 3 - Pflasterarbeiten, Ga-La-Bau",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14050 Berlin\nEr\u00f6ffnungstermin\n06.01.2026, 09:50 Uhr\nAblauf Angebotsfrist\n06.01.2026, 09:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200802"
     }
 ]
