@@ -1,5 +1,35 @@
 [
     {
+        "title": "Errichtung und Wartung PV-Anlagen",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12687 Berlin\nAblauf Angebotsfrist\n19.01.2026, 10:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200111"
+    },
+    {
+        "title": "Heizungs- und Sanit\u00e4rinstallation",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13086 Berlin\nEr\u00f6ffnungstermin\n16.01.2026, 10:30 Uhr\nAblauf Angebotsfrist\n16.01.2026, 10:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201162"
+    },
+    {
+        "title": "L\u00fcftungsinstallation",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13086 Berlin\nEr\u00f6ffnungstermin\n16.01.2026, 10:00 Uhr\nAblauf Angebotsfrist\n16.01.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201163"
+    },
+    {
+        "title": "Konzession zur Nutzungs\u00fcberlassung der bergrechtlichen Aufsuchungserlaubnis f\u00fcr Tiefe Geothermie in Berlin \u2026",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Teilnahmefrist\n03.02.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200421"
+    },
+    {
+        "title": "20250919_1240_Dacharbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13403 Berlin\nAblauf Angebotsfrist\n30.01.2026, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198649"
+    },
+    {
+        "title": "Abbruch- und R\u00fcckbauarbeiten, Schadstofffreimachung, Demontagearbeiten Haus 8,",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n14167 Berlin\nAblauf Angebotsfrist\n20.01.2026, 10:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201164"
+    },
+    {
         "title": "W\u00e4rmeversorgungsanlagen",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12487 Berlin- Johannisthal\nAblauf Angebotsfrist\n20.01.2026, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201028"
@@ -390,11 +420,6 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200915"
     },
     {
-        "title": "Erwerb datango-Campuslizenz",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf der Angebotsfrist\n08.12.2025, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200923"
-    },
-    {
         "title": "Dachdeckerarbeiten Kunststoffbahn",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12681 Berlin\nEr\u00f6ffnungstermin\n18.12.2025, 10:00 Uhr\nAblauf Angebotsfrist\n18.12.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200586"
@@ -473,30 +498,5 @@
         "title": "Schadstoffsanierung und R\u00fcckbau im Westfl\u00fcgel Haus Beuth - hier Trockenbauarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13353 Berlin\nEr\u00f6ffnungstermin\n16.12.2025, 10:00 Uhr\nAblauf Angebotsfrist\n16.12.2025, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200757"
-    },
-    {
-        "title": "Berlin TXL - Sch\u00e4dlingsbek\u00e4mpfung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13405 Berlin\nAblauf der Angebotsfrist\n12.12.2025, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200772"
-    },
-    {
-        "title": "Einbau von T\u00fcren und Fenstern",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10249 Berlin\nEr\u00f6ffnungstermin\n16.12.2025, 09:05 Uhr\nAblauf Angebotsfrist\n16.12.2025, 09:05 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200777"
-    },
-    {
-        "title": "Heizungs-, L\u00fcftungs- und Klimaanlagen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10249 Berlin\nEr\u00f6ffnungstermin\n16.12.2025, 09:10 Uhr\nAblauf Angebotsfrist\n16.12.2025, 09:10 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200779"
-    },
-    {
-        "title": "Fassadenarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10249 Berlin\nEr\u00f6ffnungstermin\n16.12.2025, 09:15 Uhr\nAblauf Angebotsfrist\n16.12.2025, 09:15 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200780"
-    },
-    {
-        "title": "L\u00fcftungsarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n23.12.2025, 09:00 Uhr\nAblauf Angebotsfrist\n23.12.2025, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200784"
     }
 ]
