@@ -1,13 +1,58 @@
 [
     {
+        "title": "VE 6.12 Ausstattung",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n14163 Berlin\nAblauf Angebotsfrist\n29.01.2026, 11:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/177871"
+    },
+    {
+        "title": "Bauoberleitung und \u00f6rtliche Bau\u00fcberwachung von Bauleistungen, BOL-B\u00dc",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12681 Berlin\nAblauf der Teilnahmefrist\n28.01.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200791"
+    },
+    {
+        "title": "Wachschutz 2026 und 2027",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12437 Berlin\nAblauf Angebotsfrist\n16.02.2026, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201057"
+    },
+    {
+        "title": "TB2 Spielkugeln",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10178 Berlin\nAblauf der Teilnahmefrist\n22.01.2026, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201277"
+    },
+    {
+        "title": "Ausstattung NaWi-R\u00e4ume",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n10407 Berlin\nAblauf Angebotsfrist\n28.01.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201475"
+    },
+    {
+        "title": "Rahmenvertrag f\u00fcr Konzeption, Organisation und Durchf\u00fchrung von Veranstaltungen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOL/A)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf der Angebotsfrist\n14.01.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201491"
+    },
+    {
         "title": "Lieferung von Medien f\u00fcr die Stadtbibliothek Berlin-Mitte",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10551 Berlin\nAblauf Angebotsfrist\n12.01.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198552"
     },
     {
+        "title": "Friedrichsfelder Schule - TA in Au\u00dfenanlagen Tiefbau",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n22.01.2026, 10:30 Uhr\nAblauf Angebotsfrist\n22.01.2026, 10:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199183"
+    },
+    {
+        "title": "Friedrichsfelder Schule - TA in Au\u00dfenanlagen Elektro",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n22.01.2026, 11:00 Uhr\nAblauf Angebotsfrist\n22.01.2026, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199185"
+    },
+    {
         "title": "ITDZ Berlin: Schulung Digitale Akte Land Berlin",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10713 Berlin\nAblauf Angebotsfrist\n26.01.2026, 13:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/199273"
+    },
+    {
+        "title": "Herstellung Spielplatz und Gr\u00fcnanlage",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12627 Berlin\nEr\u00f6ffnungstermin\n05.02.2026, 10:00 Uhr\nAblauf Angebotsfrist\n05.02.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200922"
     },
     {
         "title": "Erarbeitung einer Klimasimulation",
@@ -48,6 +93,16 @@
         "title": "KG440 Elektrotechnik und Sicherheitsbeleuchtung - Bauteil 3",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10713 Berlin\nEr\u00f6ffnungstermin\n16.01.2026, 10:10 Uhr\nAblauf Angebotsfrist\n16.01.2026, 10:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201488"
+    },
+    {
+        "title": "Elektrische Kabel- und Leitungsanlagen in Geb\u00e4uden, GMS Gefahrenmanagementsystem.",
+        "date": "Verfahrensart\nBeschr\u00e4nkte Ausschreibung nach Teilnahmewettbewerb\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Teilnahmefrist\n15.01.2026, 14:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201495"
+    },
+    {
+        "title": "F\u00f6rderanlagen, Aufzugsanlagen, Fahrtreppen und Fahrsteige Erneuerung Hebeb\u00fchne Anlieferung, Hs 1, Schillertheater, Bismarckstr. \u2026",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10625 Berlin\nEr\u00f6ffnungstermin\n29.01.2026, 09:30 Uhr\nAblauf Angebotsfrist\n29.01.2026, 09:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201506"
     },
     {
         "title": "3430 Fenster-Au\u00dfent\u00fcren-Sonnenschutz",
@@ -443,60 +498,5 @@
         "title": "Ermittlung der Investitionskosten zur Finanzierung von Olympischen und Paralympischen Spielen in Bezug \u2026",
         "date": "Verfahrensart\nBeschr\u00e4nkte Ausschreibung mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Teilnahmefrist\n02.01.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201280"
-    },
-    {
-        "title": "VV25_Energieeffizienz-Experte Bestandsgeb\u00e4ude",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12053 Berlin\nAblauf der Teilnahmefrist\n08.01.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/198894"
-    },
-    {
-        "title": "Durchf\u00fchrung des Programms BENN - Berlin Entwickelt Neue Nachbarschaften 2026ff",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf Angebotsfrist\n20.01.2026, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200108"
-    },
-    {
-        "title": "Baumf\u00e4llarbeiten Los 1: Bewuchsrodung, Baumf\u00e4llung_HOH Los 2: Bewuchsrodung, Baumf\u00e4llung_LAN",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n13.01.2026, 11:00 Uhr\nAblauf Angebotsfrist\n13.01.2026, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200150"
-    },
-    {
-        "title": "Eichtausch mit kombinierten IH Arbeiten 2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13187 Berlin\nEr\u00f6ffnungstermin\n08.01.2026, 10:00 Uhr\nAblauf Angebotsfrist\n08.01.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200819"
-    },
-    {
-        "title": "Konzession zur Nutzungs\u00fcberlassung der bergrechtlichen Aufsuchungserlaubnis f\u00fcr Tiefe Geothermie in Berlin \u2026",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Teilnahmefrist\n03.02.2026, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201014"
-    },
-    {
-        "title": "PolBln 500_25 EU RV Pr\u00fcfung von ortsver\u00e4nderlichen elektrischen Ger\u00e4te",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf Angebotsfrist\n20.01.2026, 06:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201202"
-    },
-    {
-        "title": "Sanierung des Daches der Maschinenhalle vom Haus Gau\u00df",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13353 Berlin\nEr\u00f6ffnungstermin\n12.01.2026, 11:00 Uhr\nAblauf Angebotsfrist\n12.01.2026, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201211"
-    },
-    {
-        "title": "Bauhauptarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10249 Berlin\nEr\u00f6ffnungstermin\n05.01.2026, 09:05 Uhr\nAblauf Angebotsfrist\n05.01.2026, 09:05 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201244"
-    },
-    {
-        "title": "PolBln 559_25 \u00c4rztin, Arzt-Honorarbasis -Blutalkohol- und Verwahrf\u00e4higkeitsuntersuchungen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n16.02.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201251"
-    },
-    {
-        "title": "\u00d6lbindemittel Land",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n19.12.2025, 08:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201252"
-    },
-    {
-        "title": "Dachdecker- und Fassadenarbeiten f\u00fcr Bauwerkskulissen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12437 Berlin\nEr\u00f6ffnungstermin\n08.01.2026, 12:00 Uhr\nAblauf Angebotsfrist\n08.01.2026, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201257"
     }
 ]
