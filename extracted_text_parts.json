@@ -1,5 +1,10 @@
 [
     {
+        "title": "33600000-6 Arzneimittel",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf Angebotsfrist\n27.01.2026, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201339"
+    },
+    {
         "title": "PolBln 567_25 EWA 2026 EU",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf Angebotsfrist\n30.01.2026, 20:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201401"
@@ -493,10 +498,5 @@
         "title": "Elektrische Kabel- und Leitungsanlagen in Geb\u00e4uden, Starkstromanlage",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10179 Berlin\nEr\u00f6ffnungstermin\n06.01.2026, 15:10 Uhr\nAblauf Angebotsfrist\n06.01.2026, 15:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201359"
-    },
-    {
-        "title": "Elektrische Kabel- und Leitungsanlagen in Geb\u00e4uden, Stromerzeugungsanlagen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10179 Berlin\nEr\u00f6ffnungstermin\n08.01.2026, 14:30 Uhr\nAblauf Angebotsfrist\n08.01.2026, 14:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201361"
     }
 ]
