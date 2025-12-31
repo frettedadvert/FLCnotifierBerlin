@@ -1,5 +1,10 @@
 [
     {
+        "title": "Raumlufttechnische Anlagen",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf Angebotsfrist\n12.02.2026, 09:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201581"
+    },
+    {
         "title": "Sanierung Sporthalle, KG 420 Heizung",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12629 Berlin\nEr\u00f6ffnungstermin\n12.01.2026, 10:00 Uhr\nAblauf Angebotsfrist\n12.01.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200864"
@@ -13,6 +18,11 @@
         "title": "Heizanlagen und zentrale Wassererw\u00e4rmungsanlagen_Abwasser-Wasser-Heizungs- u K\u00e4lteanlage",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf Angebotsfrist\n12.02.2026, 08:30 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201580"
+    },
+    {
+        "title": "Garten- und Landschaftsbauarbeiten - vorgezogene Ma\u00dfnahmen zur Erschlie\u00dfung eines neuen Grabfeldes",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n14089 Berlin\nEr\u00f6ffnungstermin\n21.01.2026, 10:00 Uhr\nAblauf Angebotsfrist\n21.01.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201583"
     },
     {
         "title": "Flachdachsanierung - WE 1608 - Wiersichweg 7 in 13627 Berlin",
@@ -396,7 +406,7 @@
     },
     {
         "title": "Rahmenvertrag f\u00fcr Asphalt- und Betonarbeiten 2026 - 2028",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10713 Berlin\nEr\u00f6ffnungstermin\n16.01.2026, 10:00 Uhr\nAblauf Angebotsfrist\n16.01.2026, 10:00 Uhr",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10713 Berlin\nEr\u00f6ffnungstermin\n30.01.2026, 10:00 Uhr\nAblauf Angebotsfrist\n30.01.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201399"
     },
     {
@@ -431,7 +441,7 @@
     },
     {
         "title": "Beschaffung einer Impfsoftware zur Unterst\u00fctzung der Impfprozesse im Land Berlin",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nAblauf der Teilnahmefrist\n12.01.2026, 15:00 Uhr",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nAblauf der Teilnahmefrist\n19.01.2026, 15:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201223"
     },
     {
@@ -488,15 +498,5 @@
         "title": "Abdichtung Gussasphalt",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12439 Berlin\nEr\u00f6ffnungstermin\n13.01.2026, 12:00 Uhr\nAblauf Angebotsfrist\n13.01.2026, 12:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201296"
-    },
-    {
-        "title": "Konzession zur Nutzungs\u00fcberlassung der bergrechtlichen Aufsuchungserlaubnis f\u00fcr Tiefe Geothermie in Berlin \u2026",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Teilnahmefrist\n06.02.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201301"
-    },
-    {
-        "title": "Elektro- und Fernmeldetechnik_Informations- und Kommunikationssysteme",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13086 Berlin\nEr\u00f6ffnungstermin\n19.01.2026, 11:00 Uhr\nAblauf Angebotsfrist\n19.01.2026, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201340"
     }
 ]
