@@ -1,5 +1,10 @@
 [
     {
+        "title": "Metallbauarbeiten, Schlosserarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10785 Berlin\nEr\u00f6ffnungstermin\n22.01.2026, 14:10 Uhr\nAblauf Angebotsfrist\n22.01.2026, 14:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201597"
+    },
+    {
         "title": "Raumlufttechnische Anlagen",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf Angebotsfrist\n12.02.2026, 09:10 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201581"
@@ -493,10 +498,5 @@
         "title": "Konzession zur Nutzungs\u00fcberlassung der bergrechtlichen Aufsuchungserlaubnis f\u00fcr Tiefe Geothermie in Berlin \u2026",
         "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Teilnahmefrist\n05.02.2026, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201286"
-    },
-    {
-        "title": "Abdichtung Gussasphalt",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12439 Berlin\nEr\u00f6ffnungstermin\n13.01.2026, 12:00 Uhr\nAblauf Angebotsfrist\n13.01.2026, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201296"
     }
 ]
