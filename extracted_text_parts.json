@@ -1,5 +1,20 @@
 [
     {
+        "title": "Rahmenvereinbarung f\u00fcr Veranstaltungs- und Medientechnik",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf Angebotsfrist\n09.02.2026, 13:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201640"
+    },
+    {
+        "title": "Metallbauarbeiten, Schlosserarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf Angebotsfrist\n10.02.2026, 08:50 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201757"
+    },
+    {
+        "title": "Abbruch- und R\u00fcckbauarbeiten nach DIN 18459, Schadstoffsanierungsarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12057 Berlin\nAblauf Angebotsfrist\n13.02.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201696"
+    },
+    {
         "title": "KG 400 - VE 27 Elektrische Anlagen - Infrastruktur",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n14109 Berlin\nAblauf Angebotsfrist\n09.02.2026, 13:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201669"
@@ -483,20 +498,5 @@
         "title": "3430 Fenster-Au\u00dfent\u00fcren-Sonnenschutz",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13055 Berlin\nEr\u00f6ffnungstermin\n15.01.2026, 09:01 Uhr\nAblauf Angebotsfrist\n15.01.2026, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200769"
-    },
-    {
-        "title": "Wartung und Pflege extensive Dachbegr\u00fcnung",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13187 Berlin\nAblauf Angebotsfrist\n29.01.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200862"
-    },
-    {
-        "title": "3621 - Tischlerarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13055 Berlin\nEr\u00f6ffnungstermin\n15.01.2026, 09:05 Uhr\nAblauf Angebotsfrist\n15.01.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/200891"
-    },
-    {
-        "title": "Stadtteilkoordination",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12681 Berlin\nAblauf der Angebotsfrist\n19.01.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201060"
     }
 ]
