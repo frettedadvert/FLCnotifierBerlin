@@ -1,5 +1,10 @@
 [
     {
+        "title": "Elektroarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nAblauf Angebotsfrist\n23.02.2026, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202229"
+    },
+    {
         "title": "Projektsteuerungsleistungen",
         "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12627 Berlin\nAblauf der Teilnahmefrist\n25.02.2026, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202104"
@@ -416,7 +421,7 @@
     },
     {
         "title": "Machbarkeitsstudie zum Neubau eines Multifunktionsgeb\u00e4udes f\u00fcr Sport und Park",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (LHO)\nAusf\u00fchrungsort\n13597 Berlin\nAblauf der Angebotsfrist\n02.02.2026, 10:00 Uhr",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (LHO)\nAusf\u00fchrungsort\n13597 Berlin\nAblauf der Angebotsfrist\n05.02.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201740"
     },
     {
@@ -493,10 +498,5 @@
         "title": "Vorgeh\u00e4ngte hinterl\u00fcftete Fassaden-Keramikfassade",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n14163 Berlin\nAblauf Angebotsfrist\n19.02.2026, 08:50 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201831"
-    },
-    {
-        "title": "Landschaftsbauarbeiten Verkehrswegebauarbeiten, Oberbauschichten aus Asphalt Verkehrswegebauarbeiten, Pflasterdecken, Plattenbel\u00e4ge, Einfassungen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10365 Berlin\nEr\u00f6ffnungstermin\n11.02.2026, 09:05 Uhr\nAblauf Angebotsfrist\n11.02.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201867"
     }
 ]
