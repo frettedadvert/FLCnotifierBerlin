@@ -45,6 +45,11 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202417"
     },
     {
+        "title": "Fuhr- und Baudienstleistungen im OT Dahlem",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n14160 Berlin\nAblauf der Angebotsfrist\n27.02.2026, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202419"
+    },
+    {
         "title": "PolBln 012_26 Pilotenhelme",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n27.02.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202425"
@@ -123,6 +128,11 @@
         "title": "Gas-, Wasser- und Entw\u00e4sserungsanlagen innerhalb von Geb\u00e4uden, Austausch Fettabscheider, Erneuerung Grundleitungen Gastronomie",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14163 Berlin\nEr\u00f6ffnungstermin\n10.02.2026, 13:50 Uhr\nAblauf Angebotsfrist\n10.02.2026, 13:50 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202424"
+    },
+    {
+        "title": "Schlosserarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n10997 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n23.02.2026, 10:00 Uhr\nAblauf Angebotsfrist\n23.02.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202427"
     },
     {
         "title": "Tischlerarbeiten",
@@ -483,15 +493,5 @@
         "title": "Dachsanierung - WE 72212 - Scharnweberstr. 75 in 13405 Berlin",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13405 Berlin\nEr\u00f6ffnungstermin\n18.02.2026, 09:00 Uhr\nAblauf Angebotsfrist\n18.02.2026, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202166"
-    },
-    {
-        "title": "PolBln 005_26 Rahmenvertrag Bewachungsdienstleistungen",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n19.02.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202167"
-    },
-    {
-        "title": "Umbau und Erweiterung Video-Sprechanlage - Zwickauer Damm 58",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12353 Berlin\nEr\u00f6ffnungstermin\n05.02.2026, 09:50 Uhr\nAblauf Angebotsfrist\n05.02.2026, 09:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202168"
     }
 ]
