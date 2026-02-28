@@ -1,5 +1,10 @@
 [
     {
+        "title": "Rohrreinigung Rahmenvertrag",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10785 Berlin\nAblauf Angebotsfrist\n02.04.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202896"
+    },
+    {
         "title": "Garten- und Landschaftsbauarbeiten",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/A - EU)\nAusf\u00fchrungsort\n10317 Berlin\nAblauf Angebotsfrist\n15.04.2026, 11:30 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201360"
@@ -15,9 +20,24 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203044"
     },
     {
+        "title": "Gefahrenstellenbeseitigung im \u00f6ffentlichen Stra\u00dfenland UHB2 2026-2027 in Berlin-Mitte",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10179 Berlin\nEr\u00f6ffnungstermin\n31.03.2026, 09:00 Uhr\nAblauf Angebotsfrist\n31.03.2026, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203079"
+    },
+    {
+        "title": "Rahmenvereinbarung zur Unterst\u00fctzung der Notfallvorsorge im radiologischen NFS insb. bei \u00dcbungen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Angebotsfrist\n27.03.2026, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203120"
+    },
+    {
         "title": "Beschaffung von Lizenzen f\u00fcr verschiedene Jira-Anwendungen",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf der Angebotsfrist\n16.03.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203130"
+    },
+    {
+        "title": "Lieferung von technischen B\u00fcroger\u00e4ten und Zubeh\u00f6r",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf der Angebotsfrist\n20.03.2026, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203257"
     },
     {
         "title": "Kleinreparaturenmanagement",
@@ -38,6 +58,11 @@
         "title": "Achtung: Dies ist eine Testvergabe, bitte weder bewerben, noch ein Angebot abgeben.",
         "date": "Verfahrensart\nBeschr\u00e4nkte Ausschreibung nach Teilnahmewettbewerb\nAusf\u00fchrungsort\n10707 Berlin\nAblauf der Teilnahmefrist\n05.03.2026, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203418"
+    },
+    {
+        "title": "Bodenbelagsarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n10997 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n17.03.2026, 10:00 Uhr\nAblauf Angebotsfrist\n17.03.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203433"
     },
     {
         "title": "ITDZ Berlin: RV DC LAN Arista",
@@ -63,6 +88,11 @@
         "title": "Abbruch- und R\u00fcckbauarbeiten, Schadstoffsanierung",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10407 Berlin\nAblauf Angebotsfrist\n31.03.2026, 08:30 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203212"
+    },
+    {
+        "title": "Beschaffung eines hochaufl\u00f6senden Aktiv-Thermographie Setups",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13353 Berlin\nAblauf der Angebotsfrist\n24.03.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203216"
     },
     {
         "title": "Konzept Mobilit\u00e4t und Stra\u00dfenraumgestaltung",
@@ -460,11 +490,6 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203113"
     },
     {
-        "title": "Test DBS",
-        "date": "Verfahrensart\nNicht offenes Verfahren\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Teilnahmefrist\n27.02.2026, 14:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203175"
-    },
-    {
         "title": "Rahmenvereinbarung \u00fcber KFZ-Reparaturen",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13159 Berlin\nAblauf der Angebotsfrist\n10.03.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203176"
@@ -473,30 +498,5 @@
         "title": "PAST 147_26 KI-Software-Lizenzen in 7 Losen",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n10.03.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203192"
-    },
-    {
-        "title": "Tischlerarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14195 Berlin\nEr\u00f6ffnungstermin\n20.03.2026, 11:00 Uhr\nAblauf Angebotsfrist\n20.03.2026, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203203"
-    },
-    {
-        "title": "Baustelleneinrichtung",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10249 Berlin\nEr\u00f6ffnungstermin\n10.03.2026, 11:30 Uhr\nAblauf Angebotsfrist\n10.03.2026, 11:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203231"
-    },
-    {
-        "title": "Dashboard der Berliner Verwaltung",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf Angebotsfrist\n20.03.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202218"
-    },
-    {
-        "title": "Metallbauarbeiten Innent\u00fcren KKE 3120.2",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/A - EU)\nAusf\u00fchrungsort\n14053 Berlin\nAblauf Angebotsfrist\n24.03.2026, 11:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/188461"
-    },
-    {
-        "title": "Transfer- und Matching Plattform HAWMatch",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10825 Berlin\nAblauf der Angebotsfrist\n11.03.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201847"
     }
 ]
