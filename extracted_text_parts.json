@@ -1,5 +1,20 @@
 [
     {
+        "title": "Feuerwehrstiefel",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf Angebotsfrist\n14.04.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204568"
+    },
+    {
+        "title": "Rahmenvertrag Parkett- und Holzpflasterarbeiten LB 656",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14163 Berlin\nEr\u00f6ffnungstermin\n27.04.2026, 13:00 Uhr\nAblauf Angebotsfrist\n27.04.2026, 13:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204619"
+    },
+    {
+        "title": "Metallbauarbeiten, Schlosserarbeiten- Metallbauarbeiten",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10117 Berlin\nAblauf Angebotsfrist\n28.04.2026, 09:50 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204437"
+    },
+    {
         "title": "Rahmenvertrag Dachdeckerarbeiten LB 638, 639",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n14163 Berlin\nEr\u00f6ffnungstermin\n24.04.2026, 12:00 Uhr\nAblauf Angebotsfrist\n24.04.2026, 12:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204615"
@@ -483,20 +498,5 @@
         "title": "Medientechnik Geweihsaal und Treppenhaus 6",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10115 Berlin\nAblauf Angebotsfrist\n20.04.2026, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204011"
-    },
-    {
-        "title": "Rahmenvertrag \u00fcber die Lieferung von Reinigungsequipment",
-        "date": "Verfahrensart\nOffenes Verfahren (VOL/EU)\nAusf\u00fchrungsort\n10365 Berlin\nAblauf Angebotsfrist\n20.04.2026, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202725"
-    },
-    {
-        "title": "Gas-, Wasser- und Entw\u00e4sserungsanlagen innerhalb von Geb\u00e4uden, Sanit\u00e4rtechnik Geb\u00e4ude",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf Angebotsfrist\n23.04.2026, 08:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203923"
-    },
-    {
-        "title": "Bauoberleitung, Bau\u00fcberwachungen",
-        "date": "Verfahrensart\nOffenes Verfahren\nAusf\u00fchrungsort\n12621 Berlin\nAblauf Angebotsfrist\n24.04.2026, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204096"
     }
 ]
