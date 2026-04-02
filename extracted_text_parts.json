@@ -1,5 +1,45 @@
 [
     {
+        "title": "Kultur am Leo",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10551 Berlin\nAblauf der Angebotsfrist\n23.04.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202005"
+    },
+    {
+        "title": "Rahmenvertrag Asphalt- und Betonarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10178 Berlin\nEr\u00f6ffnungstermin\n28.04.2026, 09:00 Uhr\nAblauf Angebotsfrist\n28.04.2026, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203001"
+    },
+    {
+        "title": "Rahmenvertrag Steinsetzarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10178 Berlin\nEr\u00f6ffnungstermin\n28.04.2026, 09:30 Uhr\nAblauf Angebotsfrist\n28.04.2026, 09:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203374"
+    },
+    {
+        "title": "2.Bauabschnitt, Fassadensanierung Mauer- und Fugenarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n10318 Berlin\nEr\u00f6ffnungstermin\n04.05.2026, 11:00 Uhr\nAblauf Angebotsfrist\n04.05.2026, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203852"
+    },
+    {
+        "title": "Modernisierung und Abl\u00f6sung der Access-Bodendatenbank durch eine SQLite-, R- und Shiny-basierte Fachanwendung",
+        "date": "Verfahrensart\nVerhandlungsvergabe mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Teilnahmefrist\n04.05.2026, 10:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204353"
+    },
+    {
+        "title": "Dienstleister f\u00fcr Workshopformate im Kontext Verwaltungsdigitalisierung",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12435 Berlin\nAblauf Angebotsfrist\n30.04.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204476"
+    },
+    {
+        "title": "Dachabdichtungs- und Dachbegr\u00fcnungsarbeiten - Ersatzvornahme",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB / A - EU)\nAusf\u00fchrungsort\n13593 Berlin\nAblauf Angebotsfrist\n06.05.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204622"
+    },
+    {
+        "title": "Lieferleistung f\u00fcr die Errichtung von Sammelschlie\u00dfanlagen",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12099 Berlin\nAblauf Angebotsfrist\n04.05.2026, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204682"
+    },
+    {
         "title": "Planungsleistungen f\u00fcr den Graben-, Leitungs- und Schachtbau zur Erschlie\u00dfung einer Grundwasserreinigungsanlage",
         "date": "Verfahrensart\nVerhandlungsvergabe mit Teilnahmewettbewerb (UVgO)\nAusf\u00fchrungsort\n13507 Berlin\nAblauf der Teilnahmefrist\n27.04.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/201663"
@@ -70,9 +110,39 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204666"
     },
     {
+        "title": "Erneuerung Haussteuerung der Au\u00dfenjalousien",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nEr\u00f6ffnungstermin\n23.04.2026, 09:00 Uhr\nAblauf Angebotsfrist\n23.04.2026, 09:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204689"
+    },
+    {
+        "title": "80420000-4 E-Learning",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n29.04.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204697"
+    },
+    {
+        "title": "PolBln 132_26 Waffenschlie\u00dff\u00e4cher zur sicheren Aufbewahrung von Waffen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Angebotsfrist\n20.04.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204712"
+    },
+    {
         "title": "iPad-Sonderzubeh\u00f6r",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n14.04.2026, 08:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204716"
+    },
+    {
+        "title": "Dackdeckerarbeiten",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12207 Berlin\nEr\u00f6ffnungstermin\n04.05.2026, 11:00 Uhr\nAblauf Angebotsfrist\n04.05.2026, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204756"
+    },
+    {
+        "title": "Elektrische Kabel- und Leitungsanlagen in Geb\u00e4uden_Telekommunikationsanlage_\u00dcbertragungsnetze",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12249 Berlin\nEr\u00f6ffnungstermin\n21.04.2026, 10:50 Uhr\nAblauf Angebotsfrist\n21.04.2026, 10:50 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204765"
+    },
+    {
+        "title": "Rahmenvertrag f\u00fcr fotografische Dienstleistung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12099 Berlin\nAblauf der Angebotsfrist\n30.04.2026, 12:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204766"
     },
     {
         "title": "Rigole inkl. Sch\u00e4chte, TGA KKE 550.01 inkl. Wartung",
@@ -325,11 +395,6 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204273"
     },
     {
-        "title": "Postzustellungsauftr\u00e4ge Bund",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10707 Berlin\nAblauf Angebotsfrist\n28.04.2026, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204293"
-    },
-    {
         "title": "Komplexe Instandsetzung Elektroarbeiten Heizung Sanit\u00e4r Ger\u00fcstarbeiten Fenster Bauhaupt Dacharbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12057 Berlin\nEr\u00f6ffnungstermin\n15.04.2026, 11:00 Uhr\nAblauf Angebotsfrist\n15.04.2026, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204306"
@@ -433,70 +498,5 @@
         "title": "Leistungen der Objektplanung Geb\u00e4ude f\u00fcr die Gesamtsanierung des Hortgeb\u00e4udes der Gesundbrunnen-Grundschule in \u2026",
         "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb (VgV)\nAusf\u00fchrungsort\n13357 Berlin\nAblauf der Teilnahmefrist\n05.05.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202552"
-    },
-    {
-        "title": "Technische Erschlie\u00dfung Tiefbau - MEB22 Aziz-Nesin-Grundschule",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n30.04.2026, 11:30 Uhr\nAblauf Angebotsfrist\n30.04.2026, 11:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/202559"
-    },
-    {
-        "title": "RV Estricharbeiten Rahmenvertragsarbeiten auf der Grundlage des STLB-BauZ, LB 653, Ausgabe 07-2025",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10315 Berlin\nEr\u00f6ffnungstermin\n14.04.2026, 09:05 Uhr\nAblauf Angebotsfrist\n14.04.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203864"
-    },
-    {
-        "title": "PolBln 111_26 EU SUPI Catcher",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n12101 Berlin\nAblauf der Teilnahmefrist\n27.04.2026, 06:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203884"
-    },
-    {
-        "title": "Betriebsleistungen f\u00fcr Fl\u00fcchtlingsunterk\u00fcnfte 85311000-2",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10589 Berlin\nAblauf Angebotsfrist\n27.04.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203909"
-    },
-    {
-        "title": "RV Bodenbelagarbeiten Rahmenvertragsarbeiten auf der Grundlage des STLB-BauZ, LB 665, Ausgabe 07-2023",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10315 Berlin\nEr\u00f6ffnungstermin\n14.04.2026, 09:05 Uhr\nAblauf Angebotsfrist\n14.04.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203917"
-    },
-    {
-        "title": "3431 Fensteranlage Anbau und Bestand",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10315 Berlin\nEr\u00f6ffnungstermin\n23.04.2026, 09:05 Uhr\nAblauf Angebotsfrist\n23.04.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204060"
-    },
-    {
-        "title": "Erneuerung Loggien",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12627 Berlin\nEr\u00f6ffnungstermin\n27.04.2026, 10:00 Uhr\nAblauf Angebotsfrist\n27.04.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204236"
-    },
-    {
-        "title": "Berlin TXL - Lieferung von Stromz\u00e4hlern mit optionaler LoRaWAN-\u00dcbertragung sowie optionaler Montage \u2026",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13405 Berlin\nAblauf der Angebotsfrist\n24.04.2026, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204292"
-    },
-    {
-        "title": "Servicekontingente f\u00fcr Unterst\u00fctzungsleistungen zur HISinOne-Einf\u00fchrung - Paket B",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10099 Berlin\nAblauf Angebotsfrist\n27.04.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204359"
-    },
-    {
-        "title": "Rahmenvertrag Lieferung von Gro\u00dfk\u00fcchentechnik",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV/EU)\nAusf\u00fchrungsort\n10000 Berlin\nAblauf Angebotsfrist\n30.04.2026, 09:10 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204400"
-    },
-    {
-        "title": "Lieferleistung f\u00fcr die Errichtung von Sammelschlie\u00dfanlagen",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12099 Berlin\nAblauf Angebotsfrist\n27.04.2026, 11:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204431"
-    },
-    {
-        "title": "Rollladenarbeiten_Sonnenschutzarbeiten",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n14163 Berlin\nAblauf Angebotsfrist\n30.04.2026, 08:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204439"
-    },
-    {
-        "title": "Planungsleistung",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12623 Berlin\nAblauf Angebotsfrist\n27.04.2026, 12:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204442"
     }
 ]
