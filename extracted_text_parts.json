@@ -1,5 +1,60 @@
 [
     {
+        "title": "Elektroinstallationsarbeiten Bereich 1",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12629 Berlin\nAblauf Angebotsfrist\n02.07.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206506"
+    },
+    {
+        "title": "Geb\u00e4udeautomation",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n10115 Berlin\nAblauf Angebotsfrist\n08.07.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203004"
+    },
+    {
+        "title": "General\u00fcbernehmerleistungen Erweiterungsneubau ISS Carlo-Schmid-Oberschule",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n13581 Berlin\nAblauf der Teilnahmefrist\n03.07.2026, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206531"
+    },
+    {
+        "title": "Wartung Brandschutzt\u00fcren 2026-2028",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12459 Berlin\nAblauf der Angebotsfrist\n14.07.2026, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206623"
+    },
+    {
+        "title": "Erweiterung GPU Cluster",
+        "date": "Verfahrensart\nVerhandlungsvergabe mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n13353 Berlin\nAblauf der Teilnahmefrist\n25.06.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206677"
+    },
+    {
+        "title": "Beschaffung von 4 fabrikneuen und vollelektrischen, Fahrzeugen - SUVs",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12587 Berlin\nAblauf der Angebotsfrist\n02.07.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206698"
+    },
+    {
+        "title": "Bau von 8 Querungshilfen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB)\nAusf\u00fchrungsort\n10999 Berlin Kreuzberg\nEr\u00f6ffnungstermin\n24.06.2026, 11:00 Uhr\nAblauf Angebotsfrist\n24.06.2026, 11:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206703"
+    },
+    {
+        "title": "Dachwartung sowie Pr\u00fcfung der Absturzsicherungen und ortsfester Leitern Jugendobjekte Ma He 2026 \u2026",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12681 Berlin\nAblauf der Angebotsfrist\n03.08.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206798"
+    },
+    {
+        "title": "Artenschutzfachliche Kontrolle",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n14163 Berlin\nAblauf der Angebotsfrist\n01.07.2026, 11:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206830"
+    },
+    {
+        "title": "Lagerbeleuchtung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n13627 Berlin\nAblauf der Angebotsfrist\n18.06.2026, 08:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206841"
+    },
+    {
+        "title": "Metallfenster und Metallau\u00dfent\u00fcren",
+        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12629 Berlin\nAblauf Angebotsfrist\n03.07.2026, 10:30 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206556"
+    },
+    {
         "title": "HLS Bereich I",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12629 Berlin\nAblauf Angebotsfrist\n03.07.2026, 10:15 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206541"
@@ -8,11 +63,6 @@
         "title": "LOS 18 Erneuerung ELT GLT Anlagen Wasserwerk inkl. Wartung",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/A EU)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf Angebotsfrist\n01.07.2026, 13:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204846"
-    },
-    {
-        "title": "CNC-Fr\u00e4smaschine f\u00fcr die Zentralwerkstatt der HTW Berlin",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n12459 Berlin\nAblauf der Angebotsfrist\n17.06.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/205418"
     },
     {
         "title": "PolBln 215_26 Grippe-Impfstoff",
@@ -320,6 +370,11 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/191523"
     },
     {
+        "title": "Erneuerung 5 Aufzugsanlagen",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n13439 Berlin\nEr\u00f6ffnungstermin\n26.06.2026, 10:00 Uhr\nAblauf Angebotsfrist\n26.06.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/205062"
+    },
+    {
         "title": "ITDZ Berlin: SI Netz Anbindung Leitwarten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10713 Berlin\nAblauf der Angebotsfrist\n12.06.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206475"
@@ -443,60 +498,5 @@
         "title": "Tief- und Rohrleitungsbau",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n12621 Berlin\nAblauf Angebotsfrist\n22.06.2026, 10:15 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206063"
-    },
-    {
-        "title": "Tischlerarbeiten in Wohnungen und Wohnanlagen",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n10785 Berlin\nAblauf Angebotsfrist\n26.06.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206204"
-    },
-    {
-        "title": "Werbe- und Marketingdienstleistung",
-        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10179 Berlin\nAblauf der Teilnahmefrist\n24.06.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/205903"
-    },
-    {
-        "title": "PolBln 004_26 EU RV \u00dcberziehschutzwestenh\u00fcllen",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf Angebotsfrist\n03.08.2026, 07:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206406"
-    },
-    {
-        "title": "KG 240 Fliesenarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12685 Berlin\nEr\u00f6ffnungstermin\n29.06.2026, 10:00 Uhr\nAblauf Angebotsfrist\n29.06.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204178"
-    },
-    {
-        "title": "KG 340 Malerarbeiten",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12685 Berlin\nEr\u00f6ffnungstermin\n29.06.2026, 10:15 Uhr\nAblauf Angebotsfrist\n29.06.2026, 10:15 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/204232"
-    },
-    {
-        "title": "Oberlichtelemente",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12629 Berlin\nEr\u00f6ffnungstermin\n23.06.2026, 10:00 Uhr\nAblauf Angebotsfrist\n23.06.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/205294"
-    },
-    {
-        "title": "Fachliche Beratung zur Umsetzung des EFRE-Projekt KUBIST NextGen-L\u00f6sche zur Einrichtung und partizipativen \u2026",
-        "date": "Verfahrensart\nFreih\u00e4ndige Vergabe mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10551 Berlin\nAblauf der Teilnahmefrist\n09.06.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206103"
-    },
-    {
-        "title": "Begleitende \u00d6ffentlichkeitsarbeit, Marketing und \u00d6ffentlichkeitskampagne sowie Ma\u00dfnahmen des Standortmarketings",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10825 Berlin\nAblauf der Angebotsfrist\n23.06.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206335"
-    },
-    {
-        "title": "Evaluation der Raum- und Funktionsprogramme der neuen Compartmentschulen Evaluationszeitraum Mitte 2026 bis Ende 2027",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf der Angebotsfrist\n05.06.2026, 10:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206474"
-    },
-    {
-        "title": "Mauerarbeiten, Bauhauptarbeiten Anbau",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10247 Berlin\nEr\u00f6ffnungstermin\n04.06.2026, 13:50 Uhr\nAblauf Angebotsfrist\n04.06.2026, 13:50 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206494"
-    },
-    {
-        "title": "prov. Gehweg",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10249 Berlin\nEr\u00f6ffnungstermin\n11.06.2026, 09:00 Uhr\nAblauf Angebotsfrist\n11.06.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206495"
     }
 ]
