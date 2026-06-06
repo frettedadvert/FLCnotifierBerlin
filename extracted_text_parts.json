@@ -50,6 +50,11 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206869"
     },
     {
+        "title": "Sicherheits-, Ordnungs- und Awareness-Dienst VOLKSBAD - Tempor\u00e4res Schwimmbad am Rosa-Luxemburg-Platz",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf der Angebotsfrist\n25.06.2026, 23:59 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206897"
+    },
+    {
         "title": "Miete, Lieferung, Installation einer LED-Wall",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10117 Berlin\nAblauf der Angebotsfrist\n18.06.2026, 23:59 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206910"
@@ -275,11 +280,6 @@
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206712"
     },
     {
-        "title": "PolBln 201_26 Ballistische Pakete EU",
-        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf Angebotsfrist\n30.06.2026, 09:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206675"
-    },
-    {
         "title": "Wartung Notlichtanlagen Einzel- und Zentralbatterieanlagen",
         "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n10117 Berlin\nAblauf Angebotsfrist\n29.06.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206331"
@@ -298,6 +298,11 @@
         "title": "Rahmenvereinbarung Baumpflege Tram Revier Friedrichshain",
         "date": "Verfahrensart\nOffenes Verfahren (VgV/EU)\nAusf\u00fchrungsort\n10247 Berlin Friedrichshain\nAblauf Angebotsfrist\n01.07.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206519"
+    },
+    {
+        "title": "PolBln 201_26 Ballistische Pakete EU",
+        "date": "Verfahrensart\nOffenes Verfahren (VgV)\nAusf\u00fchrungsort\n12101 Berlin\nAblauf Angebotsfrist\n28.08.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206675"
     },
     {
         "title": "Behandlung gef\u00e4hrlicher Abf\u00e4lle",
@@ -493,10 +498,5 @@
         "title": "Los 07 HLS",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n13435 Berlin\nEr\u00f6ffnungstermin\n29.06.2026, 10:00 Uhr\nAblauf Angebotsfrist\n29.06.2026, 09:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206572"
-    },
-    {
-        "title": "Besetzung Ticket-Hotline 2026-28",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10117 Berlin\nAblauf der Angebotsfrist\n22.06.2026, 13:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206596"
     }
 ]
