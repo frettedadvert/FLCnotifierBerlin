@@ -1,5 +1,15 @@
 [
     {
+        "title": "71200000-0Dienstleistungen von Architekturb\u00fcros",
+        "date": "Verfahrensart\nVerhandlungsverfahren mit Teilnahmewettbewerb\nAusf\u00fchrungsort\n10969 Berlin Kreuzberg\nAblauf der Teilnahmefrist\n15.07.2026, 10:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/207118"
+    },
+    {
+        "title": "VE223 Abbruch MUR und Schadstoffsanierung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n12165 Berlin Steglitz\nEr\u00f6ffnungstermin\n16.07.2026, 13:00 Uhr\nAblauf Angebotsfrist\n16.07.2026, 13:00 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/203933"
+    },
+    {
         "title": "Sportpark Paul-Heyse-Stra\u00dfe - TAA TB",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10707 Berlin\nEr\u00f6ffnungstermin\n16.07.2026, 11:00 Uhr\nAblauf Angebotsfrist\n16.07.2026, 11:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/205304"
@@ -68,6 +78,11 @@
         "title": "Erweiterte Rohbauarbeiten",
         "date": "Verfahrensart\nOffenes Verfahren (VOB/EU)\nAusf\u00fchrungsort\n10407 Berlin\nAblauf Angebotsfrist\n14.07.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/207116"
+    },
+    {
+        "title": "Baustelleneinrichtung Baureinigung",
+        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB/A)\nAusf\u00fchrungsort\n10709 Berlin\nEr\u00f6ffnungstermin\n23.06.2026, 15:10 Uhr\nAblauf Angebotsfrist\n23.06.2026, 15:10 Uhr",
+        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/207226"
     },
     {
         "title": "RV Leerung von Unterflurcontainern, PPK-, Glas- und Gewerbebeh\u00e4ltern",
@@ -483,20 +498,5 @@
         "title": "Fassadenarbeiten",
         "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (VOB / A)\nAusf\u00fchrungsort\n13629 Berlin\nEr\u00f6ffnungstermin\n02.07.2026, 10:00 Uhr\nAblauf Angebotsfrist\n02.07.2026, 10:00 Uhr",
         "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206974"
-    },
-    {
-        "title": "Inhaltliche Erarbeitung der Ausstellung Arbeit in Berlin",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10623 Berlin\nAblauf der Angebotsfrist\n22.06.2026, 13:00 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206975"
-    },
-    {
-        "title": "Grafische Erarbeitung der Ausstellung Arbeit in Berlin",
-        "date": "Verfahrensart\n\u00d6ffentliche Ausschreibung (UVgO)\nAusf\u00fchrungsort\n10623 Berlin\nAblauf der Angebotsfrist\n22.06.2026, 13:30 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206982"
-    },
-    {
-        "title": "GU-Rahmenvertrag 2026 Los 3 - TGA_Schl\u00fcsselfertiges Bauen",
-        "date": "Verfahrensart\nOffenes Verfahren (VOB/A-EU)\nAusf\u00fchrungsort\n10178 Berlin\nAblauf Angebotsfrist\n09.07.2026, 10:10 Uhr",
-        "link": "https://meinauftrag.rib.de/public/DetailsByPlatformIdAndTenderId/platformId/2/tenderId/206051"
     }
 ]
